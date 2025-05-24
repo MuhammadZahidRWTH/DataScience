@@ -44,6 +44,10 @@ To extract fields from a PDF:
 ```bash
 python document_extractor.py ./path/to/document.pdf
 ```
+📧 Contact
+For sample docs,any questions, suggestions, or collaboration opportunities, feel free to reach out via email:
+
+📨 Email: muh.zahidsaeed@gmail.com
 
 This will:
 
