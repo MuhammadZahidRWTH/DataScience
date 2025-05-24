@@ -1,0 +1,16 @@
+{
+  "file_name": "doc-10.pdf",
+  "general": {
+    "document_id": "PEN-IT-90123-2025",
+    "language": "it",
+    "document_type": "investment",
+    "document_date": "15.03.2025",
+    "customer_name": "Roberto Bianchi Indirizzo",
+    "institution_name": "UniCredit",
+    "institution_address": "Via Gariba1di 45, 20121 Mi1ano"
+  },
+  "investment": {
+    "portfolio_value": 128456.72,
+    "risk_profile": "Bilanciata Prudente"
+  }
+}

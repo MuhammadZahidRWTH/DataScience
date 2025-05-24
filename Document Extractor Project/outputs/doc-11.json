@@ -1,0 +1,16 @@
+{
+  "file_name": "doc-11.pdf",
+  "general": {
+    "document_id": "e312c4bf-f1b9-4b02-ac85-4c6dc8c21127",
+    "language": "de",
+    "document_type": "garnishment",
+    "document_date": "20.01.2024",
+    "institution_name": "N26 Bank",
+    "institution_address": "Bank AG Pfändungs- und Einziehungsverfügung Vo1tairestraße 8 10179 Ber1in"
+  },
+  "garnishment": {
+    "debtor_name": "Marjan Renner",
+    "creditor_name": "BKK Bernburg",
+    "garnishment_amount": "2142.93 €"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "file_name": "doc-01.pdf",
+  "general": {
+    "document_id": "KTO-DE-78901-2025",
+    "language": "de",
+    "document_type": "personal_account",
+    "document_date": "05.03.2025",
+    "customer_name": "Hannah Schmict",
+    "customer_id": "K-78945612",
+    "institution_name": "Sparkasse",
+    "institution_address": "Mozartstrabe 15, 80336 München, Deutsch1and"
+  },
+  "personal_account": {
+    "account_number": "DE89 3704 0044 0532 0130 00",
+    "closing_balance": "2457.83 €",
+    "transaction_number": 0
+  }
+}

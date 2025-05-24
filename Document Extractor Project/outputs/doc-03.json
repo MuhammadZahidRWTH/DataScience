@@ -1,0 +1,19 @@
+{
+  "file_name": "doc-03.pdf",
+  "general": {
+    "document_id": "7f7b6c35-afa2-4035-8331-a3c02db2b115",
+    "language": "de",
+    "document_type": "garnishment",
+    "document_date": "16.01.2025",
+    "customer_name": "Frau Prof",
+    "customer_id": "6622207/RX626716",
+    "institution_name": "N26 Bank AG",
+    "institution_address": "Voltairestraße 8, 10179 Berlin, Germany"
+  },
+  "garnishment": {
+    "debtor_name": "Prof. Emin Schüler B.a.",
+    "creditor_name": "Zimmer GbR",
+    "effective_date": "16.01.2025",
+    "legal_authority": "Amstgerichts vom 16. February"
+  }
+}

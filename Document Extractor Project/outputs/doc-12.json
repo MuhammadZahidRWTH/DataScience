@@ -1,0 +1,16 @@
+{
+  "file_name": "doc-12.pdf",
+  "general": {
+    "document_id": "PORT-FR-5624-2025",
+    "language": "fr",
+    "document_type": "investment",
+    "customer_name": "Sophie Mercier",
+    "institution_name": "Banque Européenne d'Investissement",
+    "institution_address": "45 Rue de 1a Paix, 75002 Paris, France"
+  },
+  "investment": {
+    "portfolio_id": "PORT-FR-5624-2025",
+    "portfolio_value": "215234.79. €",
+    "asset_number": 6
+  }
+}

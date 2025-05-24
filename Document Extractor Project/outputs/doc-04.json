@@ -1,0 +1,18 @@
+{
+  "file_name": "doc-04.pdf",
+  "general": {
+    "document_id": "STMT-78924-2025",
+    "language": "en",
+    "document_type": "personal_account",
+    "document_date": "15.03.2025",
+    "customer_name": "Robert Johnson",
+    "institution_name": "Global Financial Bank",
+    "institution_address": "123 Map1e Street, Boston, MA 02108, USA"
+  },
+  "personal_account": {
+    "account_number": "****3824",
+    "opening_balance": "5421.33 €",
+    "closing_balance": "6329.94 €",
+    "transaction_number": 8
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "file_name": "doc-09.pdf",
+  "general": {
+    "document_id": "6366f76e-7dd4-47ab-9b0b-83dace555d86",
+    "language": "de",
+    "document_type": "garnishment",
+    "document_date": "27.01.2024",
+    "institution_name": "N26 Bank",
+    "institution_address": "Bank AG Pfändungs- und Einziehungsverfügung Vo1tairestraße 8 10179 Ber1in"
+  },
+  "garnishment": {
+    "debtor_name": "Konstantin Killer",
+    "creditor_name": "Kreis Wertingen",
+    "garnishment_amount": "13120.15 €",
+    "legal_authority": "Kreis Wertingen"
+  }
+}

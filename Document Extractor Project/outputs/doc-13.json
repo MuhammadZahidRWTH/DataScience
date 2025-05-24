@@ -1,0 +1,17 @@
+{
+  "file_name": "doc-13.pdf",
+  "general": {
+    "document_id": "SOB-ES-23456-2025",
+    "language": "es",
+    "document_type": "personal_account",
+    "document_date": "18.03.2025",
+    "customer_name": "Miguel Angel Gonzalez",
+    "customer_id": "12345678X",
+    "institution_name": "Banco de España",
+    "institution_address": "Ca11e Serrano 25, 28001 Madrid"
+  },
+  "personal_account": {
+    "closing_balance": "342.78 €",
+    "transaction_number": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "file_name": "doc-17.pdf",
+  "general": {
+    "document_id": "DEP-FR-34567-2025",
+    "language": "fr",
+    "document_type": "investment",
+    "document_date": "25.01.2025",
+    "customer_name": "Marie Dupont",
+    "institution_address": "15 Rue de Rivo1i, 75004 Paris, France"
+  },
+  "investment": {
+    "portfolio_id": "FA76300060000123",
+    "portfolio_value": "52500.00 €"
+  }
+}

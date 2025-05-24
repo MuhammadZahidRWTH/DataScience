@@ -1,0 +1,17 @@
+{
+  "file_name": "doc-14.pdf",
+  "general": {
+    "document_id": "TC-ES-56789-2025",
+    "language": "es",
+    "document_type": "credit",
+    "document_date": "08.03.2025",
+    "customer_name": "Carlos López García",
+    "customer_id": "12345678Z",
+    "institution_name": "Banco Santander",
+    "institution_address": "Avenida de 1a Constitución 25, 41001 Sevi11a"
+  },
+  "credit": {
+    "credit_limit": "4000.00 €",
+    "interest_rate": "19.95 %"
+  }
+}
