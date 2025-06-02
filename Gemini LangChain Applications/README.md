@@ -27,42 +27,67 @@ Two powerful applications built with Gemini AI:
 - [Google AI API key](https://aistudio.google.com/apikey)
 - Git (optional)
 
-## 🛠️ Setup Instructions
+🛠️ Setup Instructions
 
+### 2. Create Virtual Environment
 
-1. Create Virtual Environment
-bash
+```bash
 # Windows
 python -m venv venv
 venv\Scripts\activate
 
-# Mac/Linux
+# macOS/Linux
 python3 -m venv venv
 source venv/bin/activate
+```
+
 3. Install Dependencies
-bash
+
+```bash
 pip install --upgrade pip
 pip install -r requirements.txt
-4. Configure API Key
-Create .env file:
+```
 
-env
+⚙️ Configuration
+
+Create a `.env` file in the project root:
+
+```env
 GOOGLE_API_KEY=your_actual_api_key_here
+```
+
 🚀 Running the Applications
-Chatbot
-bash
+
+### Chatbot
+
+```bash
 streamlit run apps/chatbot_app.py
-Translator
-bash
+```
+
+### Translator
+
+```bash
 streamlit run apps/translator_app.py
+```
+
 🏗️ Project Structure
-Gemini LangChain Applications/
-├── .env
-├── .gitignore
-├── README.md
-├── requirements.txt
-├── apps/
-│   ├── chatbot_app.py
-│   └── translator_app.py
-└── config.py
+
+```bash
+gemini-langchain-applications/
+├── .env                    # Environment variables
+├── .gitignore              # Git ignore rules
+├── README.md               # Project documentation
+├── requirements.txt        # Dependency list
+├── apps/                   # Application modules
+│   ├── chatbot_app.py      # Chatbot implementation
+│   └── translator_app.py   # Translation service
+└── config.py               # Configuration loader
+```
+
+🛠 Troubleshooting
+
+- **API Errors**: Ensure your Google API key is valid and quotas aren't exhausted.
+- **Module Not Found**: Run `pip install -r requirements.txt`.
+- **Streamlit Issues**: Try `streamlit cache clear`.
+
 
