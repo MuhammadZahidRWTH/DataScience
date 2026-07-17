@@ -1,0 +1,36 @@
+{
+  "ingestion_run": "2026-06-02T12:28:26",
+  "documents_processed": 1,
+  "files": [
+    {
+      "filename": "cv.txt",
+      "doc_id": "cv_a3f2",
+      "chunks": 2,
+      "entities": 107,
+      "relations": 901,
+      "processing_time_ms": 3241
+    }
+  ],
+  "vector_store": {
+    "backend": "FAISS",
+    "model": "sentence-transformers/all-MiniLM-L6-v2",
+    "total_vectors": 2,
+    "index_size_kb": 14
+  },
+  "knowledge_graph": {
+    "backend": "Neo4j 5.x",
+    "total_nodes": 107,
+    "total_relations": 901,
+    "entity_types": {
+      "organisation": 18,
+      "person": 4,
+      "product": 31,
+      "location": 9,
+      "date": 12,
+      "financial": 6,
+      "work": 3,
+      "event": 5,
+      "other": 19
+    }
+  }
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "query": "What is Muhammad Zahid's experience with RAG pipelines?",
+    "answer": "Muhammad Zahid has extensive production experience with RAG pipelines across multiple roles. At Aixigo AG (FinTech), he architected and deployed a production LLM financial assistant using GPT-4, LangChain, and RAG, achieving 40% faster response times and 99.8%+ answer accuracy. He eliminated 70% of manual reporting workload by building a production-grade RAG knowledge extraction pipeline processing real financial documents. In his projects, he deployed a RAG-based Q&A system processing 10,000+ documents, reducing manual analysis by 75%, and elevated answer quality by 30% via neural reranking and hybrid vector search at 95%+ uptime. He also built a RAG pipeline over ESG regulatory documents enabling natural language querying of complex compliance requirements, eliminating 80% of manual reporting effort.",
+    "graph_context": "[LangChain (product)]\n  LangChain --USES--> RAG\n  LangChain --USES--> FAISS\n  LangChain --USES--> GPT-4\n[Aixigo AG (organisation)]\n  Aixigo AG --CO_OCCURS_WITH--> LangChain\n  Aixigo AG --CO_OCCURS_WITH--> RAG\n  Aixigo AG --CO_OCCURS_WITH--> FastAPI\n[FAISS (product)]\n  FAISS --USES--> Neural Reranking\n  FAISS --CO_OCCURS_WITH--> RAG",
+    "sources": ["cv_a3f2"],
+    "latency_ms": 1842
+  },
+  {
+    "query": "What companies has Muhammad Zahid worked at?",
+    "answer": "Muhammad Zahid has worked at the following companies: (1) Laboratory for Machine Tools and Production Engineering (WZL), Aachen — currently working as AI Engineer focusing on Predictive Maintenance and Industry 4.0 since October 2024. (2) Institute for Machine Elements and Systems Engineering (IMSE), Aachen — AI Research Intern for Condition Monitoring from June to September 2024. (3) Aixigo AG, Aachen — AI Engineer specializing in LLM and RAG systems for FinTech from June 2023 to June 2024. (4) Hashmaker Solutions, Lahore — Software Engineer from May 2016 to July 2020.",
+    "graph_context": "[WZL (organisation)]\n  WZL --CO_OCCURS_WITH--> Aachen\n  WZL --CO_OCCURS_WITH--> Industry 4.0\n[Aixigo AG (organisation)]\n  Aixigo AG --CO_OCCURS_WITH--> LangChain\n  Aixigo AG --CO_OCCURS_WITH--> GPT-4\n[IMSE (organisation)]\n  IMSE --CO_OCCURS_WITH--> Gradient Boosting\n  IMSE --CO_OCCURS_WITH--> Aachen",
+    "sources": ["cv_a3f2"],
+    "latency_ms": 1654
+  },
+  {
+    "query": "What are Muhammad Zahid's key technical skills?",
+    "answer": "Muhammad Zahid's technical skills span several domains: LLM & Agentic AI (LangChain, LangGraph, RAG, Fine-tuning with LoRA, Prompt Engineering, DSPy, Guardrails), LLM Evaluation & Safety (RAGAS, BLEU, ROUGE, AI Observability, Quantization, Distillation, LLMOps), MLOps & Production (Docker, FastAPI, MLflow, CI/CD, Azure ML, TorchServe), Vector Search & Data (FAISS, Pinecone, pgvector, Elasticsearch, PySpark, PostgreSQL), Deep Learning & ML (PyTorch, Transformers, Hugging Face, XGBoost, scikit-learn, SHAP, CUDA), and Cloud & Infrastructure (AWS SageMaker, AWS Bedrock, Azure ML Studio, GCP Vertex AI, Kubernetes, Python, SQL, Bash, Git).",
+    "graph_context": "[FAISS (product)]\n  FAISS --USES--> Vector Search\n[PyTorch (product)]\n  PyTorch --CO_OCCURS_WITH--> Transformers\n  PyTorch --CO_OCCURS_WITH--> Hugging Face\n[LangChain (product)]\n  LangChain --USES--> LangGraph\n  LangChain --CO_OCCURS_WITH--> RAG",
+    "sources": ["cv_a3f2"],
+    "latency_ms": 1423
+  },
+  {
+    "query": "What is Muhammad Zahid's educational background?",
+    "answer": "Muhammad Zahid holds an M.Sc. in Data Science from RWTH Aachen University (2020-2025), where his thesis focused on a semi-supervised ML benchmarking framework for Industry 4.0 quality assurance, evaluating 5+ classifiers under real-world data scarcity and retaining up to 90% of fully-supervised accuracy via pseudo-labeling and self-training. He is currently extending this research toward peer-reviewed publication. He also holds a B.Sc. in Computer Science as a dual degree from COMSATS University and Lancaster University (UK) from 2011-2015, covering AI, algorithms, and software engineering.",
+    "graph_context": "[RWTH Aachen University (organisation)]\n  RWTH Aachen University --CO_OCCURS_WITH--> Data Science\n  RWTH Aachen University --CO_OCCURS_WITH--> Aachen\n[Lancaster University (organisation)]\n  Lancaster University --CO_OCCURS_WITH--> COMSATS University\n  Lancaster University --CO_OCCURS_WITH--> Computer Science",
+    "sources": ["cv_a3f2"],
+    "latency_ms": 1531
+  }
+]

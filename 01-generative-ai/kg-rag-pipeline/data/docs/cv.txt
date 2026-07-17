@@ -1,0 +1,84 @@
+Muhammad Zahid
+AI Engineer | LLM & RAG Systems
++49 176 37570307 | muh.zahidsaeed@gmail.com | Aachen, Germany | Open to Relocation
+LinkedIn: muhammad-zahid-772206258 | GitHub: MuhammadZahidRWTH
+
+PROFILE
+AI Engineer with an M.Sc. in Data Science from RWTH Aachen University, specializing in LLM deployment, RAG architectures, and multi-agent systems. Turns complex AI research into scalable production systems that drive measurable business impact across FinTech and Industry 4.0. Proven results include 70% reduction in manual workload, 30% faster LLM inference, and 25% fewer unplanned machine failures in live enterprise environments.
+
+WORK EXPERIENCE
+
+Laboratory for Machine Tools and Production Engineering (WZL), Aachen, Germany
+AI Engineer | Predictive Maintenance & Industry 4.0 | Oct 2024 - Present
+- Improved fault detection model performance by 18% using semi-supervised learning and SMOTE on highly imbalanced industrial sensor datasets.
+- Deployed AI pipelines into live manufacturing workflows, increasing operational efficiency by 20% across production lines.
+- Designed synthetic data generation pipelines for predictive maintenance, reducing dependency on labeled training data by 60% and lowering annotation costs.
+
+Institute for Machine Elements and Systems Engineering (IMSE), Aachen, Germany
+AI Research Intern | Condition Monitoring | Jun 2024 - Sep 2024
+- Achieved 95% accuracy with a Gradient Boosting ensemble on vibration sensor data, outperforming baseline models by 12%.
+- Reduced unplanned machine downtime by 25% through real-time predictive condition monitoring deployed on live machinery.
+- Processed 500K+ sensor readings across multiple machine categories, improving model generalization by 35%.
+
+Aixigo AG, Aachen, Germany
+AI Engineer (LLM & RAG) | FinTech | Jun 2023 - Jun 2024
+- Architected and deployed a production LLM financial assistant (GPT-4, LangChain, RAG) serving live portfolio data, achieving 40% faster response times and 99.8%+ answer accuracy.
+- Eliminated 70% of manual reporting workload by building a production-grade RAG knowledge extraction pipeline processing real financial documents.
+- Reduced LLM inference latency by 30% through model quantization, response caching, and FastAPI async optimization.
+- Engineered PySpark data pipelines processing 10TB+ of financial data with 99.9% reliability for downstream LLM consumption.
+
+Hashmaker Solutions, Lahore, Pakistan
+Software Engineer | May 2016 - Jul 2020
+- Built and optimized backend systems and data pipelines, achieving 40-70% improvement in query performance and system throughput.
+
+EDUCATION
+
+RWTH Aachen University, Aachen, Germany
+M.Sc. in Data Science | 2020 - 2025
+- Thesis: Semi-supervised ML benchmarking framework for Industry 4.0 quality assurance. Evaluated 5+ classifiers under real-world data scarcity, retaining up to 90% of fully-supervised accuracy via pseudo-labeling and self-training on industrial datasets.
+- Currently extending thesis research toward peer-reviewed publication.
+
+COMSATS University & Lancaster University (UK)
+B.Sc. in Computer Science (Dual Degree) | 2011 - 2015
+- Dual-degree program combining AI, algorithms, and software engineering curriculum across two international institutions.
+
+SKILLS
+
+LLM & Agentic AI: LangChain, LangGraph, RAG, Fine-tuning (LoRA), Prompt Engineering, DSPy, Guardrails
+LLM Evaluation & Safety: RAGAS, BLEU, ROUGE, AI Observability, Quantization, Distillation, LLMOps
+MLOps & Production: Docker, FastAPI, MLflow, CI/CD, Azure ML, TorchServe, Serverless APIs, Model Monitoring
+Vector Search & Data: FAISS, Pinecone, pgvector, Elasticsearch, PySpark, PostgreSQL, ETL Pipelines
+Deep Learning & ML: PyTorch, Transformers, Hugging Face, XGBoost, scikit-learn, SHAP, CUDA
+Cloud & Infrastructure: AWS SageMaker, AWS Bedrock, Azure ML Studio, GCP Vertex AI, Kubernetes, Python, SQL, Bash, Git
+
+TECHNICAL PROJECTS
+
+Multi-Agent AI System | LangChain, LangGraph, OpenAI, FastAPI
+- Engineered a multi-agent system with autonomous task decomposition, tool use, and self-correcting execution loops.
+- Orchestrated LangGraph-based agents with memory, planning, and dynamic tool routing across APIs.
+- Reduced end-to-end task completion time by 60% compared to traditional rule-based automation pipelines.
+
+Production RAG System | FAISS, Neural Reranking, RAGAS, FastAPI
+- Deployed a RAG-based Q&A system processing 10,000+ documents, reducing manual analysis by 75%.
+- Elevated answer quality by 30% via neural reranking and hybrid vector search at 95%+ uptime.
+- Delivered production-ready retrieval pipeline with sub-second response times using FAISS vector indexing.
+
+RAG for Business Reporting | LangChain, FAISS, RAG, Plotly
+- Eliminated 80% of manual ESG compliance reporting effort, saving 15+ hours per week.
+- Built a RAG pipeline over regulatory documents enabling natural language querying of complex compliance requirements.
+- Delivered interactive Plotly dashboards enabling 60% faster ESG trend analysis and executive reporting.
+
+Document Digitization at Scale | Tesseract OCR, NLP, LangChain
+- Reduced processing latency from 45s to 8s via parallel execution across 1M+ pages in five languages.
+- Maintained 92% extraction accuracy with scalable architecture handling 15K+ documents daily.
+- Added structured NER extraction layer converting raw OCR output into analytics-ready pipelines.
+
+CERTIFICATIONS
+- Azure AI Fundamentals, Generative AI and Large Language Models | Microsoft | Dec 2025
+- Azure ML Studio, Machine Learning Pipeline and Model Deployment | Microsoft | Jun 2024
+- RAG-based Financial Agent Development, Applied LLM Workshop | Aixigo AG | Feb 2024
+
+LANGUAGES
+- English: Fluent (C1)
+- German: A2 (actively improving toward B1)
+- Urdu: Native

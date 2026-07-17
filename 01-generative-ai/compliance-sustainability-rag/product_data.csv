@@ -1,0 +1,101 @@
+Product Name,Category,Compliance Status,Hazard Classification,Sustainability Score,Energy Efficiency,Carbon Footprint (tons)
+GreenBox,Sustainability,Pending,Corrosive,A,1.47,35.76
+GreenBox,Sustainability,Pending,Toxic,A,3.5,33.27
+EcoPouch,Machinery,Compliant,Corrosive,D,4.75,49.06
+GreenBox,Furniture,Non-compliant,Corrosive,B,3.97,42.73
+GreenBox,Chemical,Pending,Toxic,B,1.57,50.6
+EcoPouch,Chemical,Pending,Flammable,B,4.73,88.93
+GreenBox,Sustainability,Pending,Corrosive,B,4.78,87.79
+EcoPouch,Furniture,Non-compliant,Safe,A,3.33,59.21
+EcoPouch,Electronics,Compliant,Flammable,A,1.22,84.26
+EcoPouch,Chemical,Non-compliant,Flammable,C,1.49,50.23
+GreenBox,Sustainability,Compliant,Safe,A,3.7,99.64
+BioLamp,Machinery,Pending,Corrosive,B,1.58,11.48
+SolarPanel,Furniture,Non-compliant,Flammable,D,1.77,38.51
+CleanWater Filter,Machinery,Compliant,Corrosive,D,3.73,18.14
+SolarPanel,Machinery,Non-compliant,Corrosive,D,1.75,18.19
+CleanWater Filter,Electronics,Compliant,Toxic,B,4.26,88.56
+EcoPouch,Machinery,Compliant,Flammable,A,1.24,93.59
+SolarPanel,Machinery,Pending,Safe,B,2.31,31.4
+SolarPanel,Chemical,Pending,Corrosive,C,1.51,74.97
+EcoPouch,Machinery,Compliant,Toxic,D,4.33,95.7
+GreenBox,Chemical,Pending,Flammable,A,3.1,65.26
+EcoPouch,Furniture,Non-compliant,Corrosive,D,3.24,90.73
+CleanWater Filter,Furniture,Non-compliant,Flammable,A,1.07,94.3
+CleanWater Filter,Machinery,Non-compliant,Safe,D,1.31,44.74
+SolarPanel,Chemical,Pending,Safe,C,3.92,93.54
+SolarPanel,Machinery,Non-compliant,Safe,C,1.86,71.72
+CleanWater Filter,Furniture,Pending,Safe,A,1.06,73.28
+CleanWater Filter,Electronics,Non-compliant,Flammable,A,2.44,34.44
+CleanWater Filter,Furniture,Non-compliant,Corrosive,C,2.19,57.26
+GreenBox,Machinery,Compliant,Safe,C,3.02,48.38
+GreenBox,Electronics,Non-compliant,Flammable,A,4.08,80.46
+BioLamp,Furniture,Pending,Corrosive,D,4.02,77.95
+EcoPouch,Machinery,Compliant,Toxic,C,1.59,31.95
+BioLamp,Furniture,Pending,Safe,A,1.94,10.13
+EcoPouch,Sustainability,Compliant,Toxic,C,2.53,99.73
+BioLamp,Machinery,Non-compliant,Safe,C,4.86,42.76
+SolarPanel,Sustainability,Non-compliant,Corrosive,C,4.37,45.72
+GreenBox,Machinery,Compliant,Toxic,C,1.14,80.9
+SolarPanel,Machinery,Pending,Flammable,C,1.49,25.91
+CleanWater Filter,Electronics,Non-compliant,Toxic,C,4.65,55.33
+CleanWater Filter,Machinery,Compliant,Safe,A,4.83,85.15
+BioLamp,Chemical,Pending,Safe,D,1.92,15.47
+SolarPanel,Chemical,Non-compliant,Safe,D,2.92,10.6
+BioLamp,Electronics,Pending,Flammable,B,3.46,97.59
+SolarPanel,Sustainability,Pending,Toxic,C,1.63,16.12
+BioLamp,Electronics,Compliant,Corrosive,A,3.29,67.33
+BioLamp,Furniture,Pending,Flammable,B,1.11,48.32
+GreenBox,Sustainability,Compliant,Corrosive,D,4.72,61.14
+EcoPouch,Sustainability,Compliant,Safe,D,1.33,58.63
+GreenBox,Sustainability,Compliant,Corrosive,A,1.86,31.85
+GreenBox,Machinery,Non-compliant,Toxic,A,2.28,63.63
+EcoPouch,Furniture,Non-compliant,Corrosive,D,1.75,42.72
+SolarPanel,Furniture,Compliant,Flammable,C,2.38,30.52
+BioLamp,Electronics,Pending,Flammable,D,4.84,11.73
+SolarPanel,Electronics,Non-compliant,Safe,A,4.67,24.43
+BioLamp,Sustainability,Non-compliant,Flammable,B,2.66,99.52
+CleanWater Filter,Chemical,Non-compliant,Toxic,A,3.67,52.24
+EcoPouch,Furniture,Compliant,Safe,C,2.9,60.75
+GreenBox,Machinery,Non-compliant,Corrosive,C,3.75,19.17
+GreenBox,Electronics,Pending,Corrosive,C,1.18,79.06
+GreenBox,Machinery,Pending,Safe,A,2.12,17.32
+SolarPanel,Machinery,Compliant,Flammable,D,4.19,67.99
+CleanWater Filter,Sustainability,Non-compliant,Flammable,C,4.79,96.6
+EcoPouch,Machinery,Compliant,Toxic,C,4.03,55.86
+CleanWater Filter,Machinery,Non-compliant,Safe,A,3.2,93.14
+SolarPanel,Chemical,Pending,Corrosive,A,4.27,32.71
+EcoPouch,Furniture,Non-compliant,Toxic,B,1.27,25.04
+SolarPanel,Chemical,Pending,Toxic,D,3.71,21.58
+BioLamp,Chemical,Compliant,Flammable,B,2.39,96.22
+EcoPouch,Furniture,Non-compliant,Flammable,B,1.82,41.77
+BioLamp,Machinery,Compliant,Safe,B,3.37,13.44
+CleanWater Filter,Sustainability,Compliant,Corrosive,A,3.22,43.46
+BioLamp,Electronics,Non-compliant,Corrosive,A,2.38,56.78
+BioLamp,Sustainability,Compliant,Corrosive,B,1.26,16.11
+SolarPanel,Machinery,Non-compliant,Toxic,C,3.54,53.89
+SolarPanel,Sustainability,Pending,Safe,A,1.46,74.31
+EcoPouch,Chemical,Pending,Corrosive,A,2.41,89.21
+BioLamp,Machinery,Non-compliant,Toxic,C,1.89,56.83
+EcoPouch,Furniture,Pending,Safe,B,4.97,61.83
+BioLamp,Sustainability,Non-compliant,Toxic,B,4.92,68.5
+BioLamp,Sustainability,Compliant,Corrosive,B,3.24,21.37
+BioLamp,Chemical,Non-compliant,Toxic,A,3.32,38.43
+EcoPouch,Machinery,Compliant,Flammable,C,4.2,93.82
+GreenBox,Sustainability,Compliant,Flammable,D,3.54,34.58
+SolarPanel,Sustainability,Pending,Corrosive,B,1.76,87.69
+BioLamp,Furniture,Compliant,Corrosive,C,2.16,48.56
+CleanWater Filter,Electronics,Pending,Safe,B,1.13,78.98
+SolarPanel,Sustainability,Non-compliant,Toxic,B,2.47,21.94
+GreenBox,Electronics,Pending,Corrosive,C,4.46,53.77
+SolarPanel,Sustainability,Pending,Flammable,B,2.7,38.5
+GreenBox,Sustainability,Non-compliant,Toxic,B,2.24,44.3
+SolarPanel,Chemical,Non-compliant,Corrosive,D,3.9,98.02
+CleanWater Filter,Chemical,Pending,Corrosive,A,4.5,16.56
+CleanWater Filter,Sustainability,Pending,Corrosive,C,3.16,40.91
+EcoPouch,Chemical,Pending,Flammable,B,2.26,89.45
+EcoPouch,Furniture,Compliant,Safe,A,3.41,42.98
+CleanWater Filter,Chemical,Compliant,Flammable,D,4.24,90.04
+BioLamp,Electronics,Non-compliant,Toxic,B,3.08,92.02
+SolarPanel,Chemical,Compliant,Toxic,C,1.98,59.39
+SolarPanel,Chemical,Non-compliant,Toxic,D,1.78,73.19
