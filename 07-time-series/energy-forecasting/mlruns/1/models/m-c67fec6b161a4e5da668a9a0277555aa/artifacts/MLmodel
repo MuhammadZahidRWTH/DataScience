@@ -1,0 +1,23 @@
+artifact_path: file:C:/Users/smartzee/Desktop/DataScience-Projects/07-time-series/energy-forecasting/mlruns/1/models/m-c67fec6b161a4e5da668a9a0277555aa/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.14.4
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.12.1+cpu
+mlflow_version: 3.14.0
+model_id: m-c67fec6b161a4e5da668a9a0277555aa
+model_size_bytes: 996523
+model_uuid: m-c67fec6b161a4e5da668a9a0277555aa
+prompts: null
+run_id: 58944ea353224fe08ea44501f5dd0d00
+utc_time_created: '2026-07-07 13:56:16.127372'
