@@ -1,0 +1,38 @@
+{
+  "mode": "mock_heuristic",
+  "n_responses": 5,
+  "avg_faithfulness": 0.7,
+  "avg_answer_relevancy": 1.0,
+  "per_response": [
+    {
+      "machine": "Conveyor_Motor_03",
+      "fault": "bearing_wear",
+      "faithfulness": 0.5,
+      "answer_relevancy": 1.0
+    },
+    {
+      "machine": "Conveyor_Motor_03",
+      "fault": "bearing_wear",
+      "faithfulness": 0.5,
+      "answer_relevancy": 1.0
+    },
+    {
+      "machine": "Conveyor_Motor_03",
+      "fault": "bearing_wear",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0
+    },
+    {
+      "machine": "Conveyor_Motor_03",
+      "fault": "bearing_wear",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0
+    },
+    {
+      "machine": "Conveyor_Motor_03",
+      "fault": "bearing_wear",
+      "faithfulness": 0.5,
+      "answer_relevancy": 1.0
+    }
+  ]
+}

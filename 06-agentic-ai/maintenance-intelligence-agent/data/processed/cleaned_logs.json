@@ -1,0 +1,202 @@
+[
+  {
+    "log_id": "LOG_0001",
+    "machine_id": "CNC_Mill_01",
+    "timestamp": "2024-01-01 00:00:00",
+    "original_description": "Machine vibration exceeded threshold. Bearing replacement required.",
+    "fault_category": "bearing_wear",
+    "severity": "high",
+    "action_taken": "Bearing replacement required for CNC_Mill_01.",
+    "follow_up_needed": "yes"
+  },
+  {
+    "log_id": "LOG_0002",
+    "machine_id": "Conveyor_Motor_03",
+    "timestamp": "2024-01-02 19:12:00",
+    "original_description": "Oil level low. Topped up. Next service in 200h.",
+    "fault_category": "lubrication",
+    "severity": "low",
+    "action_taken": "Topped up oil level.",
+    "follow_up_needed": "no"
+  },
+  {
+    "log_id": "LOG_0003",
+    "machine_id": "CNC_Mill_01",
+    "timestamp": "2024-01-04 14:24:00",
+    "original_description": "Gearbox temperature high. Coolant flow checked and adjusted.",
+    "fault_category": "overheating",
+    "severity": "medium",
+    "action_taken": "Coolant flow checked and adjusted.",
+    "follow_up_needed": "no"
+  },
+  {
+    "log_id": "LOG_0004",
+    "machine_id": "Hydraulic_Press_02",
+    "timestamp": "2024-01-06 09:36:00",
+    "original_description": "Machine vibration exceeded threshold. Bearing replacement required.",
+    "fault_category": "bearing_wear",
+    "severity": "high",
+    "action_taken": "Bearing replacement required for Hydraulic_Press_02.",
+    "follow_up_needed": "yes"
+  },
+  {
+    "log_id": "LOG_0005",
+    "machine_id": "CNC_Mill_01",
+    "timestamp": "2024-01-08 04:48:00",
+    "original_description": "Vibration spike on spindle. Realignment performed.",
+    "fault_category": "bearing_wear",
+    "severity": "medium",
+    "action_taken": "Realignment performed on CNC_Mill_01 spindle.",
+    "follow_up_needed": "no"
+  },
+  {
+    "log_id": "LOG_0006",
+    "machine_id": "CNC_Mill_01",
+    "timestamp": "2024-01-10 00:00:00",
+    "original_description": "Machine vibration exceeded threshold. Bearing replacement required.",
+    "fault_category": "bearing_wear",
+    "severity": "high",
+    "action_taken": "Bearing replacement required for CNC_Mill_01.",
+    "follow_up_needed": "yes"
+  },
+  {
+    "log_id": "LOG_0007",
+    "machine_id": "Conveyor_Motor_03",
+    "timestamp": "2024-01-11 19:12:00",
+    "original_description": "Oil level low. Topped up. Next service in 200h.",
+    "fault_category": "lubrication",
+    "severity": "low",
+    "action_taken": "Topped up oil level.",
+    "follow_up_needed": "no"
+  },
+  {
+    "log_id": "LOG_0008",
+    "machine_id": "CNC_Mill_01",
+    "timestamp": "2024-01-13 14:24:00",
+    "original_description": "Filter clogged. Replaced. Pressure restored to normal.",
+    "fault_category": "pressure_issue",
+    "severity": "low",
+    "action_taken": "Filter clogged, replaced.",
+    "follow_up_needed": "no"
+  },
+  {
+    "log_id": "LOG_0009",
+    "machine_id": "CNC_Mill_01",
+    "timestamp": "2024-01-15 09:36:00",
+    "original_description": "Temp sensor reading 92C. Cooling fan inspection needed.",
+    "fault_category": "overheating",
+    "severity": "medium",
+    "action_taken": "Cooling fan inspection scheduled for CNC_Mill_01.",
+    "follow_up_needed": "no"
+  },
+  {
+    "log_id": "LOG_0010",
+    "machine_id": "Conveyor_Motor_03",
+    "timestamp": "2024-01-17 04:48:00",
+    "original_description": "Oil level low. Topped up. Next service in 200h.",
+    "fault_category": "lubrication",
+    "severity": "low",
+    "action_taken": "Topped up oil level.",
+    "follow_up_needed": "no"
+  },
+  {
+    "log_id": "LOG_0011",
+    "machine_id": "CNC_Mill_01",
+    "timestamp": "2024-01-19 00:00:00",
+    "original_description": "Filter clogged. Replaced. Pressure restored to normal.",
+    "fault_category": "pressure_issue",
+    "severity": "low",
+    "action_taken": "Filter clogged, replaced.",
+    "follow_up_needed": "no"
+  },
+  {
+    "log_id": "LOG_0012",
+    "machine_id": "CNC_Mill_01",
+    "timestamp": "2024-01-20 19:12:00",
+    "original_description": "Hydraulic pressure drop detected. Seal inspection scheduled.",
+    "fault_category": "pressure_issue",
+    "severity": "medium",
+    "action_taken": "Seal inspection scheduled for CNC_Mill_01.",
+    "follow_up_needed": "no"
+  },
+  {
+    "log_id": "LOG_0013",
+    "machine_id": "Hydraulic_Press_02",
+    "timestamp": "2024-01-22 14:24:00",
+    "original_description": "Unusual noise from motor. Lubrication applied. Monitor closely.",
+    "fault_category": "lubrication",
+    "severity": "low",
+    "action_taken": "Lubrication applied to Hydraulic_Press_02 motor.",
+    "follow_up_needed": "yes"
+  },
+  {
+    "log_id": "LOG_0014",
+    "machine_id": "CNC_Mill_01",
+    "timestamp": "2024-01-24 09:36:00",
+    "original_description": "Filter clogged. Replaced. Pressure restored to normal.",
+    "fault_category": "pressure_issue",
+    "severity": "low",
+    "action_taken": "Filter clogged, replaced.",
+    "follow_up_needed": "no"
+  },
+  {
+    "log_id": "LOG_0015",
+    "machine_id": "CNC_Mill_01",
+    "timestamp": "2024-01-26 04:48:00",
+    "original_description": "Temp sensor reading 92C. Cooling fan inspection needed.",
+    "fault_category": "overheating",
+    "severity": "medium",
+    "action_taken": "Cooling fan inspection scheduled for next maintenance window.",
+    "follow_up_needed": "yes"
+  },
+  {
+    "log_id": "LOG_0016",
+    "machine_id": "Hydraulic_Press_02",
+    "timestamp": "2024-01-28 00:00:00",
+    "original_description": "Oil level low. Topped up. Next service in 200h.",
+    "fault_category": "lubrication",
+    "severity": "low",
+    "action_taken": "Oil level topped up.",
+    "follow_up_needed": "no"
+  },
+  {
+    "log_id": "LOG_0017",
+    "machine_id": "Hydraulic_Press_02",
+    "timestamp": "2024-01-29 19:12:00",
+    "original_description": "Emergency stop triggered. Operator reported burning smell.",
+    "fault_category": "overheating",
+    "severity": "high",
+    "action_taken": "The operator initiated an emergency stop to prevent further damage.",
+    "follow_up_needed": "yes"
+  },
+  {
+    "log_id": "LOG_0018",
+    "machine_id": "CNC_Mill_01",
+    "timestamp": "2024-01-31 14:24:00",
+    "original_description": "Temp sensor reading 92C. Cooling fan inspection needed.",
+    "fault_category": "overheating",
+    "severity": "medium",
+    "action_taken": "Cooling fan inspection scheduled for CNC_Mill_01.",
+    "follow_up_needed": "yes"
+  },
+  {
+    "log_id": "LOG_0019",
+    "machine_id": "CNC_Mill_01",
+    "timestamp": "2024-02-02 09:36:00",
+    "original_description": "Machine vibration exceeded threshold. Bearing replacement required.",
+    "fault_category": "bearing_wear",
+    "severity": "high",
+    "action_taken": "Bearing replacement required for CNC_Mill_01.",
+    "follow_up_needed": "no"
+  },
+  {
+    "log_id": "LOG_0020",
+    "machine_id": "CNC_Mill_01",
+    "timestamp": "2024-02-04 04:48:00",
+    "original_description": "Scheduled maintenance completed. All systems nominal.",
+    "fault_category": "scheduled",
+    "severity": "low",
+    "action_taken": "Scheduled maintenance was performed on CNC_Mill_01.",
+    "follow_up_needed": "no"
+  }
+]

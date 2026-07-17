@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools.build_meta"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "maintenance-intelligence-agent"
+version = "0.1.0"
+description = "Agentic AI system for industrial predictive maintenance - inspired by Fraunhofer IAIS agentic AI research"
+requires-python = ">=3.11"
+dependencies = [
+    "langchain>=0.3.0",
+    "langchain-community>=0.3.0",
+    "langchain-ollama>=0.2.0",
+    "langgraph>=0.2.0",
+    "faiss-cpu>=1.8.0",
+    "sentence-transformers>=3.0.0",
+    "xgboost>=2.0.0",
+    "prophet>=1.1.5",
+    "pandas>=2.0.0",
+    "numpy>=1.26.0",
+    "scikit-learn>=1.4.0",
+    "fastapi>=0.115.0",
+    "uvicorn>=0.30.0",
+    "streamlit>=1.38.0",
+    "ragas>=0.1.0",
+    "pydantic>=2.0.0",
+    "python-dotenv>=1.0.0",
+    "pytest>=8.0.0",
+    "httpx>=0.27.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]

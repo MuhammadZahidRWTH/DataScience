@@ -1,0 +1,110 @@
+{
+  "report_id": "MG-20260616-221307",
+  "generated_at": "2026-06-16T22:13:07.244333",
+  "generated_by": "MaintenanceGPT \u2014 Sovereign Agentic AI System",
+  "pipeline": "Ingestion \u2192 Diagnosis \u2192 Forecasting \u2192 RAG \u2192 Report",
+  "ingestion_summary": "Processed 20 maintenance log entries. Machines monitored: CNC_Mill_01, Hydraulic_Press_02, Conveyor_Motor_03.",
+  "fault_summary": {
+    "none": 201,
+    "overheating": 38,
+    "bearing_wear": 59
+  },
+  "total_anomalies": 298,
+  "high_priority_count": 5,
+  "medium_priority_count": 92,
+  "forecast_risk_summary": "No machines forecasted to exceed danger thresholds in the next 48 hours.",
+  "at_risk_machines": 0,
+  "action_items": [
+    {
+      "priority": "HIGH",
+      "machine": "Conveyor_Motor_03",
+      "fault": "bearing_wear",
+      "sensor": "vibration_mm_s",
+      "confidence": 0.7820000052452087,
+      "diagnosis": "The likely root cause of the sensor anomaly is a worn-out or damaged bearing in Conveyor_Motor_03, which has caused an increase in vibration (vibration_mm_s) and led to a high Isolation Forest score (-0.5748), indicating that the machine is behaving outside its normal operating range. The most important immediate action is to inspect the conveyor motor's bearings for signs of wear or damage, specifically checking for excessive play or scoring on the bearing surfaces, as this can be addressed through a simple and cost-effective maintenance procedure.\n\nPlease note: This response assumes that the plant has access to a maintenance manual or technical documentation specific to Conveyor_Motor_03.",
+      "procedure": "Based on the manual excerpts, here are the exact maintenance procedures and immediate actions required for Machine Conveyor_Motor_03 with a diagnosed fault of bearing_wear:\n\n\u2022 **Immediate Action**: Stop the machine immediately to prevent further damage.\n\u2022 **Scheduled Replacement**: Schedule replacement of the bearing within 24 hours, as indicated by the F005 fault code.\n\u2022 **Inspection Interval**: Since the inspection interval is every 500 operating hours, and this is the first instance of vibration above the critical threshold (4.0 mm/s), it's recommended to inspect the bearing again after the scheduled replacement to ensure no further issues arise."
+    },
+    {
+      "priority": "HIGH",
+      "machine": "Conveyor_Motor_03",
+      "fault": "bearing_wear",
+      "sensor": "temperature_c",
+      "confidence": 0.8029999732971191,
+      "diagnosis": "The likely root cause of the sensor anomaly is a malfunctioning temperature sensor (temperature_c) that has drifted away from its nominal value, causing the Isolation Forest algorithm to incorrectly identify the conveyor motor as faulty due to its proximity to the anomalous sensor reading. To address this issue immediately, I recommend replacing the temperature sensor with a new one that meets the plant's specifications and recalibrating the sensor's zero-point offset to ensure accurate temperature readings.\n\nNote: The recommended action is specific, technical, and focused on resolving the root cause of the anomaly, which is the faulty temperature sensor.",
+      "procedure": "Based on the manual excerpts, here are the exact maintenance procedures and immediate actions required for Machine Conveyor_Motor_03 with a diagnosed fault of bearing_wear:\n\n\u2022 **Immediate Action**: Stop the machine immediately to prevent further damage.\n\u2022 **Scheduled Replacement**: Schedule replacement of the bearing within 24 hours, as indicated by the F005 fault code.\n\u2022 **Inspection Interval**: Since the inspection interval is every 500 operating hours, and this is the first instance of vibration above the critical threshold (4.0 mm/s), it's recommended to inspect the bearing again after the scheduled replacement to ensure no further issues arise."
+    },
+    {
+      "priority": "HIGH",
+      "machine": "Conveyor_Motor_03",
+      "fault": "bearing_wear",
+      "sensor": "vibration_mm_s",
+      "confidence": 0.8029999732971191,
+      "diagnosis": "Based on the sensor anomaly detected by the hybrid AI system, I believe the likely root cause is a worn-out bearing in Conveyor_Motor_03, which has caused an increase in vibration (vibration_mm_s) due to the uneven load distribution and increased friction between the bearing and the shaft. The most important immediate action would be to inspect and replace the bearing with a new one that meets the plant's specifications for torque rating, material grade, and surface finish to prevent further damage to the motor and potential downtime.\n\nPlease note: I'm assuming that the conveyor motor is a standard industrial motor, and the bearing is likely a radial or deep groove ball bearing.",
+      "procedure": "Based on the manual excerpts, here are the exact maintenance procedures and immediate actions required for Machine Conveyor_Motor_03 with a diagnosed fault of bearing_wear:\n\n\u2022 **Immediate Action**: Stop the machine immediately to prevent further damage.\n\u2022 **Scheduled Replacement**: Schedule replacement of the bearing within 24 hours, as indicated by the F005 fault code.\n\u2022 **Inspection Interval**: Since the inspection interval is every 500 operating hours, and this is the first instance of vibration above the critical threshold (4.0 mm/s), it's recommended to inspect the bearing again after the scheduled replacement to ensure no further issues arise."
+    },
+    {
+      "priority": "HIGH",
+      "machine": "Conveyor_Motor_03",
+      "fault": "bearing_wear",
+      "sensor": "vibration_mm_s",
+      "confidence": 0.7879999876022339,
+      "diagnosis": "The likely root cause of the sensor anomaly is a worn-out or damaged bearing in Conveyor_Motor_03, which has caused an increase in vibration (vibration_mm_s) due to its reduced stiffness and increased friction. The most important immediate action would be to inspect the conveyor motor's bearings for signs of wear, such as scoring, pitting, or excessive play, and consider replacing them with new or refurbished ones that meet the plant's specifications.\n\nPlease note: I'm assuming that the plant has a standard maintenance procedure in place for bearing replacements.",
+      "procedure": "Based on the manual excerpts, here are the exact maintenance procedures and immediate actions required for Machine Conveyor_Motor_03 with a diagnosed fault of bearing_wear:\n\n\u2022 **Immediate Action**: Stop the machine immediately to prevent further damage.\n\u2022 **Scheduled Replacement**: Schedule replacement of the bearing within 24 hours, as indicated by the F005 fault code.\n\u2022 **Inspection Interval**: Since the inspection interval is every 500 operating hours, and this is the first instance of vibration above the critical threshold (4.0 mm/s), it's recommended to inspect the bearing again after the scheduled replacement to ensure no further issues arise."
+    },
+    {
+      "priority": "HIGH",
+      "machine": "Conveyor_Motor_03",
+      "fault": "bearing_wear",
+      "sensor": "temperature_c",
+      "confidence": 0.7879999876022339,
+      "diagnosis": "The likely root cause of the sensor anomaly is a malfunctioning temperature sensor, which may be due to contamination or corrosion on the sensor's surface, causing an inaccurate reading that triggered the Isolation Forest algorithm to flag the conveyor motor as potentially faulty. The most important immediate action would be to inspect and clean the temperature sensor (temperature_c) thoroughly, paying particular attention to the sensor's electrical connections and any potential signs of moisture ingress.\n\nPlease note: I recommend checking the sensor documentation for specific cleaning procedures and guidelines to ensure proper maintenance.",
+      "procedure": "Based on the manual excerpts, here are the exact maintenance procedures and immediate actions required for Machine Conveyor_Motor_03 with a diagnosed fault of bearing_wear:\n\n\u2022 **Immediate Action**: Stop the machine immediately to prevent further damage.\n\u2022 **Scheduled Replacement**: Schedule replacement of the bearing within 24 hours, as indicated by the F005 fault code.\n\u2022 **Inspection Interval**: Since the inspection interval is every 500 operating hours, and this is the first instance of vibration above the critical threshold (4.0 mm/s), it's recommended to inspect the bearing again after the scheduled replacement to ensure no further issues arise."
+    },
+    {
+      "priority": "MEDIUM",
+      "machine": "Hydraulic_Press_02",
+      "fault": "overheating",
+      "sensor": "temperature_c",
+      "confidence": 0.574999988079071,
+      "diagnosis": "Fault detected \u2014 manual review recommended.",
+      "procedure": "Refer to machine maintenance manual."
+    },
+    {
+      "priority": "MEDIUM",
+      "machine": "Conveyor_Motor_03",
+      "fault": "overheating",
+      "sensor": "temperature_c",
+      "confidence": 0.4519999921321869,
+      "diagnosis": "Fault detected \u2014 manual review recommended.",
+      "procedure": "Refer to machine maintenance manual."
+    },
+    {
+      "priority": "MEDIUM",
+      "machine": "CNC_Mill_01",
+      "fault": "overheating",
+      "sensor": "temperature_c",
+      "confidence": 0.5820000171661377,
+      "diagnosis": "Fault detected \u2014 manual review recommended.",
+      "procedure": "Refer to machine maintenance manual."
+    },
+    {
+      "priority": "MEDIUM",
+      "machine": "Hydraulic_Press_02",
+      "fault": "bearing_wear",
+      "sensor": "temperature_c",
+      "confidence": 0.5809999704360962,
+      "diagnosis": "Fault detected \u2014 manual review recommended.",
+      "procedure": "Refer to machine maintenance manual."
+    },
+    {
+      "priority": "MEDIUM",
+      "machine": "Hydraulic_Press_02",
+      "fault": "bearing_wear",
+      "sensor": "vibration_mm_s",
+      "confidence": 0.5809999704360962,
+      "diagnosis": "Fault detected \u2014 manual review recommended.",
+      "procedure": "Refer to machine maintenance manual."
+    }
+  ],
+  "executive_summary": "Here is a summary of the maintenance intelligence report:\n\nOur recent analysis has identified 298 anomalies across the plant, with 5 high-priority faults that require immediate attention. The majority of these issues are related to overheating and bearing wear, which can lead to equipment failure if not addressed promptly. If we address these issues in a timely manner, we expect no machines to exceed danger thresholds within the next 48 hours, ensuring continued safe operation of our production lines."
+}

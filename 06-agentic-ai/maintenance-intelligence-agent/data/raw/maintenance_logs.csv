@@ -1,0 +1,201 @@
+log_id,timestamp,machine_id,technician,description,downtime_hours,resolved
+LOG_0001,2024-01-01 00:00:00,CNC_Mill_01,Anna Schmidt,Machine vibration exceeded threshold. Bearing replacement required.,0.3,False
+LOG_0002,2024-01-02 19:12:00,Conveyor_Motor_03,Hans Mueller,Oil level low. Topped up. Next service in 200h.,0.1,True
+LOG_0003,2024-01-04 14:24:00,CNC_Mill_01,Hans Mueller,Gearbox temperature high. Coolant flow checked and adjusted.,3.3,True
+LOG_0004,2024-01-06 09:36:00,Hydraulic_Press_02,Anna Schmidt,Machine vibration exceeded threshold. Bearing replacement required.,2.5,False
+LOG_0005,2024-01-08 04:48:00,CNC_Mill_01,Karl Weber,Vibration spike on spindle. Realignment performed.,1.4,True
+LOG_0006,2024-01-10 00:00:00,CNC_Mill_01,Hans Mueller,Machine vibration exceeded threshold. Bearing replacement required.,0.1,False
+LOG_0007,2024-01-11 19:12:00,Conveyor_Motor_03,Lisa Fischer,Oil level low. Topped up. Next service in 200h.,1.4,True
+LOG_0008,2024-01-13 14:24:00,CNC_Mill_01,Karl Weber,Filter clogged. Replaced. Pressure restored to normal.,0.0,True
+LOG_0009,2024-01-15 09:36:00,CNC_Mill_01,Hans Mueller,Temp sensor reading 92C. Cooling fan inspection needed.,1.1,True
+LOG_0010,2024-01-17 04:48:00,Conveyor_Motor_03,Hans Mueller,Oil level low. Topped up. Next service in 200h.,3.1,True
+LOG_0011,2024-01-19 00:00:00,CNC_Mill_01,Lisa Fischer,Filter clogged. Replaced. Pressure restored to normal.,4.7,True
+LOG_0012,2024-01-20 19:12:00,CNC_Mill_01,Karl Weber,Hydraulic pressure drop detected. Seal inspection scheduled.,0.5,True
+LOG_0013,2024-01-22 14:24:00,Hydraulic_Press_02,Karl Weber,Unusual noise from motor. Lubrication applied. Monitor closely.,0.4,True
+LOG_0014,2024-01-24 09:36:00,CNC_Mill_01,Lisa Fischer,Filter clogged. Replaced. Pressure restored to normal.,3.2,True
+LOG_0015,2024-01-26 04:48:00,CNC_Mill_01,Hans Mueller,Temp sensor reading 92C. Cooling fan inspection needed.,2.5,False
+LOG_0016,2024-01-28 00:00:00,Hydraulic_Press_02,Lisa Fischer,Oil level low. Topped up. Next service in 200h.,3.5,True
+LOG_0017,2024-01-29 19:12:00,Hydraulic_Press_02,Anna Schmidt,Emergency stop triggered. Operator reported burning smell.,1.5,True
+LOG_0018,2024-01-31 14:24:00,CNC_Mill_01,Anna Schmidt,Temp sensor reading 92C. Cooling fan inspection needed.,8.2,True
+LOG_0019,2024-02-02 09:36:00,CNC_Mill_01,Karl Weber,Machine vibration exceeded threshold. Bearing replacement required.,0.0,True
+LOG_0020,2024-02-04 04:48:00,CNC_Mill_01,Karl Weber,Scheduled maintenance completed. All systems nominal.,1.4,True
+LOG_0021,2024-02-06 00:00:00,Hydraulic_Press_02,Anna Schmidt,Oil level low. Topped up. Next service in 200h.,0.4,True
+LOG_0022,2024-02-07 19:12:00,CNC_Mill_01,Karl Weber,Vibration spike on spindle. Realignment performed.,4.0,True
+LOG_0023,2024-02-09 14:24:00,Conveyor_Motor_03,Anna Schmidt,Gearbox temperature high. Coolant flow checked and adjusted.,2.8,True
+LOG_0024,2024-02-11 09:36:00,CNC_Mill_01,Lisa Fischer,Oil level low. Topped up. Next service in 200h.,1.5,True
+LOG_0025,2024-02-13 04:48:00,CNC_Mill_01,Anna Schmidt,Scheduled maintenance completed. All systems nominal.,0.4,True
+LOG_0026,2024-02-15 00:00:00,Hydraulic_Press_02,Karl Weber,Machine vibration exceeded threshold. Bearing replacement required.,0.0,True
+LOG_0027,2024-02-16 19:12:00,CNC_Mill_01,Lisa Fischer,Vibration spike on spindle. Realignment performed.,2.1,False
+LOG_0028,2024-02-18 14:24:00,Conveyor_Motor_03,Karl Weber,Emergency stop triggered. Operator reported burning smell.,8.5,True
+LOG_0029,2024-02-20 09:36:00,CNC_Mill_01,Anna Schmidt,Temp sensor reading 92C. Cooling fan inspection needed.,2.3,True
+LOG_0030,2024-02-22 04:48:00,Conveyor_Motor_03,Anna Schmidt,Machine vibration exceeded threshold. Bearing replacement required.,3.9,True
+LOG_0031,2024-02-24 00:00:00,CNC_Mill_01,Anna Schmidt,Hydraulic pressure drop detected. Seal inspection scheduled.,2.8,False
+LOG_0032,2024-02-25 19:12:00,CNC_Mill_01,Hans Mueller,Machine vibration exceeded threshold. Bearing replacement required.,5.0,True
+LOG_0033,2024-02-27 14:24:00,Hydraulic_Press_02,Hans Mueller,Scheduled maintenance completed. All systems nominal.,3.9,True
+LOG_0034,2024-02-29 09:36:00,CNC_Mill_01,Anna Schmidt,Gearbox temperature high. Coolant flow checked and adjusted.,11.7,False
+LOG_0035,2024-03-02 04:48:00,Conveyor_Motor_03,Hans Mueller,Scheduled maintenance completed. All systems nominal.,0.7,True
+LOG_0036,2024-03-04 00:00:00,Conveyor_Motor_03,Hans Mueller,Machine vibration exceeded threshold. Bearing replacement required.,0.4,False
+LOG_0037,2024-03-05 19:12:00,Hydraulic_Press_02,Hans Mueller,Unusual noise from motor. Lubrication applied. Monitor closely.,12.6,True
+LOG_0038,2024-03-07 14:24:00,Conveyor_Motor_03,Karl Weber,Unusual noise from motor. Lubrication applied. Monitor closely.,1.6,False
+LOG_0039,2024-03-09 09:36:00,Hydraulic_Press_02,Lisa Fischer,Unusual noise from motor. Lubrication applied. Monitor closely.,0.8,True
+LOG_0040,2024-03-11 04:48:00,CNC_Mill_01,Lisa Fischer,Machine vibration exceeded threshold. Bearing replacement required.,2.9,False
+LOG_0041,2024-03-13 00:00:00,CNC_Mill_01,Hans Mueller,Emergency stop triggered. Operator reported burning smell.,0.7,True
+LOG_0042,2024-03-14 19:12:00,Conveyor_Motor_03,Hans Mueller,Emergency stop triggered. Operator reported burning smell.,1.1,True
+LOG_0043,2024-03-16 14:24:00,CNC_Mill_01,Karl Weber,Hydraulic pressure drop detected. Seal inspection scheduled.,2.7,True
+LOG_0044,2024-03-18 09:36:00,Conveyor_Motor_03,Karl Weber,Gearbox temperature high. Coolant flow checked and adjusted.,0.7,True
+LOG_0045,2024-03-20 04:48:00,Hydraulic_Press_02,Anna Schmidt,Filter clogged. Replaced. Pressure restored to normal.,4.5,True
+LOG_0046,2024-03-22 00:00:00,Conveyor_Motor_03,Hans Mueller,Temp sensor reading 92C. Cooling fan inspection needed.,0.3,True
+LOG_0047,2024-03-23 19:12:00,Hydraulic_Press_02,Anna Schmidt,Gearbox temperature high. Coolant flow checked and adjusted.,5.1,True
+LOG_0048,2024-03-25 14:24:00,Hydraulic_Press_02,Anna Schmidt,Temp sensor reading 92C. Cooling fan inspection needed.,0.7,True
+LOG_0049,2024-03-27 09:36:00,Hydraulic_Press_02,Karl Weber,Hydraulic pressure drop detected. Seal inspection scheduled.,3.3,True
+LOG_0050,2024-03-29 04:48:00,Conveyor_Motor_03,Anna Schmidt,Gearbox temperature high. Coolant flow checked and adjusted.,6.3,True
+LOG_0051,2024-03-31 00:00:00,CNC_Mill_01,Anna Schmidt,Gearbox temperature high. Coolant flow checked and adjusted.,1.9,True
+LOG_0052,2024-04-01 19:12:00,Hydraulic_Press_02,Lisa Fischer,Scheduled maintenance completed. All systems nominal.,0.7,True
+LOG_0053,2024-04-03 14:24:00,CNC_Mill_01,Karl Weber,Oil level low. Topped up. Next service in 200h.,1.1,True
+LOG_0054,2024-04-05 09:36:00,Hydraulic_Press_02,Anna Schmidt,Machine vibration exceeded threshold. Bearing replacement required.,0.0,True
+LOG_0055,2024-04-07 04:48:00,Conveyor_Motor_03,Karl Weber,Oil level low. Topped up. Next service in 200h.,2.8,False
+LOG_0056,2024-04-09 00:00:00,Hydraulic_Press_02,Hans Mueller,Filter clogged. Replaced. Pressure restored to normal.,7.9,False
+LOG_0057,2024-04-10 19:12:00,CNC_Mill_01,Anna Schmidt,Machine vibration exceeded threshold. Bearing replacement required.,1.0,True
+LOG_0058,2024-04-12 14:24:00,Hydraulic_Press_02,Lisa Fischer,Unusual noise from motor. Lubrication applied. Monitor closely.,0.4,True
+LOG_0059,2024-04-14 09:36:00,Hydraulic_Press_02,Karl Weber,Oil level low. Topped up. Next service in 200h.,1.4,True
+LOG_0060,2024-04-16 04:48:00,CNC_Mill_01,Lisa Fischer,Emergency stop triggered. Operator reported burning smell.,3.9,True
+LOG_0061,2024-04-18 00:00:00,Conveyor_Motor_03,Anna Schmidt,Emergency stop triggered. Operator reported burning smell.,0.2,True
+LOG_0062,2024-04-19 19:12:00,CNC_Mill_01,Karl Weber,Scheduled maintenance completed. All systems nominal.,0.2,True
+LOG_0063,2024-04-21 14:24:00,CNC_Mill_01,Lisa Fischer,Oil level low. Topped up. Next service in 200h.,0.4,True
+LOG_0064,2024-04-23 09:36:00,Conveyor_Motor_03,Karl Weber,Filter clogged. Replaced. Pressure restored to normal.,4.2,True
+LOG_0065,2024-04-25 04:48:00,CNC_Mill_01,Karl Weber,Machine vibration exceeded threshold. Bearing replacement required.,0.8,True
+LOG_0066,2024-04-27 00:00:00,Conveyor_Motor_03,Lisa Fischer,Scheduled maintenance completed. All systems nominal.,0.2,True
+LOG_0067,2024-04-28 19:12:00,Hydraulic_Press_02,Karl Weber,Oil level low. Topped up. Next service in 200h.,0.9,True
+LOG_0068,2024-04-30 14:24:00,Hydraulic_Press_02,Anna Schmidt,Temp sensor reading 92C. Cooling fan inspection needed.,0.5,True
+LOG_0069,2024-05-02 09:36:00,CNC_Mill_01,Hans Mueller,Hydraulic pressure drop detected. Seal inspection scheduled.,0.8,True
+LOG_0070,2024-05-04 04:48:00,CNC_Mill_01,Lisa Fischer,Hydraulic pressure drop detected. Seal inspection scheduled.,1.6,True
+LOG_0071,2024-05-06 00:00:00,Hydraulic_Press_02,Anna Schmidt,Filter clogged. Replaced. Pressure restored to normal.,10.7,False
+LOG_0072,2024-05-07 19:12:00,CNC_Mill_01,Anna Schmidt,Temp sensor reading 92C. Cooling fan inspection needed.,0.9,True
+LOG_0073,2024-05-09 14:24:00,Hydraulic_Press_02,Karl Weber,Machine vibration exceeded threshold. Bearing replacement required.,0.9,True
+LOG_0074,2024-05-11 09:36:00,CNC_Mill_01,Hans Mueller,Scheduled maintenance completed. All systems nominal.,0.7,True
+LOG_0075,2024-05-13 04:48:00,CNC_Mill_01,Anna Schmidt,Oil level low. Topped up. Next service in 200h.,5.0,True
+LOG_0076,2024-05-15 00:00:00,Hydraulic_Press_02,Anna Schmidt,Hydraulic pressure drop detected. Seal inspection scheduled.,1.7,False
+LOG_0077,2024-05-16 19:12:00,CNC_Mill_01,Anna Schmidt,Machine vibration exceeded threshold. Bearing replacement required.,1.8,True
+LOG_0078,2024-05-18 14:24:00,Hydraulic_Press_02,Karl Weber,Temp sensor reading 92C. Cooling fan inspection needed.,0.0,True
+LOG_0079,2024-05-20 09:36:00,Hydraulic_Press_02,Hans Mueller,Oil level low. Topped up. Next service in 200h.,2.6,True
+LOG_0080,2024-05-22 04:48:00,Conveyor_Motor_03,Hans Mueller,Unusual noise from motor. Lubrication applied. Monitor closely.,0.2,True
+LOG_0081,2024-05-24 00:00:00,CNC_Mill_01,Hans Mueller,Filter clogged. Replaced. Pressure restored to normal.,2.7,True
+LOG_0082,2024-05-25 19:12:00,Conveyor_Motor_03,Hans Mueller,Filter clogged. Replaced. Pressure restored to normal.,0.9,True
+LOG_0083,2024-05-27 14:24:00,CNC_Mill_01,Lisa Fischer,Scheduled maintenance completed. All systems nominal.,1.7,True
+LOG_0084,2024-05-29 09:36:00,Conveyor_Motor_03,Anna Schmidt,Machine vibration exceeded threshold. Bearing replacement required.,14.3,True
+LOG_0085,2024-05-31 04:48:00,CNC_Mill_01,Karl Weber,Hydraulic pressure drop detected. Seal inspection scheduled.,2.2,True
+LOG_0086,2024-06-02 00:00:00,Hydraulic_Press_02,Hans Mueller,Emergency stop triggered. Operator reported burning smell.,0.7,True
+LOG_0087,2024-06-03 19:12:00,Hydraulic_Press_02,Lisa Fischer,Hydraulic pressure drop detected. Seal inspection scheduled.,3.8,False
+LOG_0088,2024-06-05 14:24:00,CNC_Mill_01,Anna Schmidt,Hydraulic pressure drop detected. Seal inspection scheduled.,3.9,True
+LOG_0089,2024-06-07 09:36:00,CNC_Mill_01,Karl Weber,Gearbox temperature high. Coolant flow checked and adjusted.,2.3,True
+LOG_0090,2024-06-09 04:48:00,Hydraulic_Press_02,Hans Mueller,Machine vibration exceeded threshold. Bearing replacement required.,6.3,True
+LOG_0091,2024-06-11 00:00:00,CNC_Mill_01,Anna Schmidt,Filter clogged. Replaced. Pressure restored to normal.,1.1,True
+LOG_0092,2024-06-12 19:12:00,Hydraulic_Press_02,Anna Schmidt,Machine vibration exceeded threshold. Bearing replacement required.,0.9,True
+LOG_0093,2024-06-14 14:24:00,CNC_Mill_01,Lisa Fischer,Machine vibration exceeded threshold. Bearing replacement required.,0.8,True
+LOG_0094,2024-06-16 09:36:00,Conveyor_Motor_03,Anna Schmidt,Vibration spike on spindle. Realignment performed.,2.1,True
+LOG_0095,2024-06-18 04:48:00,Conveyor_Motor_03,Hans Mueller,Emergency stop triggered. Operator reported burning smell.,3.1,True
+LOG_0096,2024-06-20 00:00:00,Hydraulic_Press_02,Karl Weber,Machine vibration exceeded threshold. Bearing replacement required.,0.5,True
+LOG_0097,2024-06-21 19:12:00,Hydraulic_Press_02,Hans Mueller,Scheduled maintenance completed. All systems nominal.,0.4,True
+LOG_0098,2024-06-23 14:24:00,Conveyor_Motor_03,Anna Schmidt,Unusual noise from motor. Lubrication applied. Monitor closely.,1.0,True
+LOG_0099,2024-06-25 09:36:00,Conveyor_Motor_03,Karl Weber,Filter clogged. Replaced. Pressure restored to normal.,1.8,True
+LOG_0100,2024-06-27 04:48:00,Hydraulic_Press_02,Karl Weber,Hydraulic pressure drop detected. Seal inspection scheduled.,2.0,True
+LOG_0101,2024-06-29 00:00:00,Hydraulic_Press_02,Lisa Fischer,Emergency stop triggered. Operator reported burning smell.,0.4,True
+LOG_0102,2024-06-30 19:12:00,CNC_Mill_01,Anna Schmidt,Temp sensor reading 92C. Cooling fan inspection needed.,12.1,True
+LOG_0103,2024-07-02 14:24:00,Hydraulic_Press_02,Hans Mueller,Emergency stop triggered. Operator reported burning smell.,2.6,True
+LOG_0104,2024-07-04 09:36:00,Hydraulic_Press_02,Lisa Fischer,Machine vibration exceeded threshold. Bearing replacement required.,4.6,True
+LOG_0105,2024-07-06 04:48:00,Hydraulic_Press_02,Karl Weber,Emergency stop triggered. Operator reported burning smell.,0.0,True
+LOG_0106,2024-07-08 00:00:00,Hydraulic_Press_02,Karl Weber,Oil level low. Topped up. Next service in 200h.,1.7,True
+LOG_0107,2024-07-09 19:12:00,Conveyor_Motor_03,Lisa Fischer,Hydraulic pressure drop detected. Seal inspection scheduled.,3.2,True
+LOG_0108,2024-07-11 14:24:00,Hydraulic_Press_02,Anna Schmidt,Filter clogged. Replaced. Pressure restored to normal.,3.8,False
+LOG_0109,2024-07-13 09:36:00,Conveyor_Motor_03,Anna Schmidt,Gearbox temperature high. Coolant flow checked and adjusted.,3.3,True
+LOG_0110,2024-07-15 04:48:00,Hydraulic_Press_02,Karl Weber,Temp sensor reading 92C. Cooling fan inspection needed.,8.4,True
+LOG_0111,2024-07-17 00:00:00,Hydraulic_Press_02,Karl Weber,Gearbox temperature high. Coolant flow checked and adjusted.,11.5,True
+LOG_0112,2024-07-18 19:12:00,Hydraulic_Press_02,Hans Mueller,Oil level low. Topped up. Next service in 200h.,2.3,True
+LOG_0113,2024-07-20 14:24:00,Hydraulic_Press_02,Lisa Fischer,Filter clogged. Replaced. Pressure restored to normal.,2.5,False
+LOG_0114,2024-07-22 09:36:00,Hydraulic_Press_02,Karl Weber,Emergency stop triggered. Operator reported burning smell.,2.5,True
+LOG_0115,2024-07-24 04:48:00,CNC_Mill_01,Lisa Fischer,Unusual noise from motor. Lubrication applied. Monitor closely.,3.6,False
+LOG_0116,2024-07-26 00:00:00,Hydraulic_Press_02,Lisa Fischer,Gearbox temperature high. Coolant flow checked and adjusted.,1.3,True
+LOG_0117,2024-07-27 19:12:00,CNC_Mill_01,Hans Mueller,Scheduled maintenance completed. All systems nominal.,0.6,True
+LOG_0118,2024-07-29 14:24:00,Conveyor_Motor_03,Lisa Fischer,Gearbox temperature high. Coolant flow checked and adjusted.,3.0,False
+LOG_0119,2024-07-31 09:36:00,Hydraulic_Press_02,Hans Mueller,Emergency stop triggered. Operator reported burning smell.,0.4,True
+LOG_0120,2024-08-02 04:48:00,Conveyor_Motor_03,Lisa Fischer,Scheduled maintenance completed. All systems nominal.,1.3,True
+LOG_0121,2024-08-04 00:00:00,Conveyor_Motor_03,Lisa Fischer,Unusual noise from motor. Lubrication applied. Monitor closely.,1.2,False
+LOG_0122,2024-08-05 19:12:00,Conveyor_Motor_03,Hans Mueller,Scheduled maintenance completed. All systems nominal.,0.4,False
+LOG_0123,2024-08-07 14:24:00,Hydraulic_Press_02,Lisa Fischer,Temp sensor reading 92C. Cooling fan inspection needed.,0.2,False
+LOG_0124,2024-08-09 09:36:00,Hydraulic_Press_02,Anna Schmidt,Temp sensor reading 92C. Cooling fan inspection needed.,0.2,True
+LOG_0125,2024-08-11 04:48:00,Hydraulic_Press_02,Anna Schmidt,Machine vibration exceeded threshold. Bearing replacement required.,0.5,True
+LOG_0126,2024-08-13 00:00:00,CNC_Mill_01,Lisa Fischer,Filter clogged. Replaced. Pressure restored to normal.,5.7,True
+LOG_0127,2024-08-14 19:12:00,CNC_Mill_01,Lisa Fischer,Scheduled maintenance completed. All systems nominal.,0.1,True
+LOG_0128,2024-08-16 14:24:00,Conveyor_Motor_03,Anna Schmidt,Scheduled maintenance completed. All systems nominal.,1.5,True
+LOG_0129,2024-08-18 09:36:00,CNC_Mill_01,Karl Weber,Hydraulic pressure drop detected. Seal inspection scheduled.,1.3,True
+LOG_0130,2024-08-20 04:48:00,Conveyor_Motor_03,Hans Mueller,Oil level low. Topped up. Next service in 200h.,2.5,True
+LOG_0131,2024-08-22 00:00:00,Conveyor_Motor_03,Karl Weber,Vibration spike on spindle. Realignment performed.,4.9,True
+LOG_0132,2024-08-23 19:12:00,CNC_Mill_01,Karl Weber,Emergency stop triggered. Operator reported burning smell.,2.5,True
+LOG_0133,2024-08-25 14:24:00,CNC_Mill_01,Lisa Fischer,Hydraulic pressure drop detected. Seal inspection scheduled.,2.0,True
+LOG_0134,2024-08-27 09:36:00,Hydraulic_Press_02,Hans Mueller,Emergency stop triggered. Operator reported burning smell.,2.0,True
+LOG_0135,2024-08-29 04:48:00,CNC_Mill_01,Lisa Fischer,Scheduled maintenance completed. All systems nominal.,0.6,True
+LOG_0136,2024-08-31 00:00:00,Conveyor_Motor_03,Anna Schmidt,Unusual noise from motor. Lubrication applied. Monitor closely.,2.6,True
+LOG_0137,2024-09-01 19:12:00,Hydraulic_Press_02,Anna Schmidt,Temp sensor reading 92C. Cooling fan inspection needed.,0.4,True
+LOG_0138,2024-09-03 14:24:00,Hydraulic_Press_02,Hans Mueller,Scheduled maintenance completed. All systems nominal.,5.6,True
+LOG_0139,2024-09-05 09:36:00,CNC_Mill_01,Anna Schmidt,Oil level low. Topped up. Next service in 200h.,0.5,True
+LOG_0140,2024-09-07 04:48:00,Hydraulic_Press_02,Anna Schmidt,Oil level low. Topped up. Next service in 200h.,0.3,True
+LOG_0141,2024-09-09 00:00:00,CNC_Mill_01,Anna Schmidt,Unusual noise from motor. Lubrication applied. Monitor closely.,2.1,True
+LOG_0142,2024-09-10 19:12:00,Hydraulic_Press_02,Hans Mueller,Temp sensor reading 92C. Cooling fan inspection needed.,2.7,False
+LOG_0143,2024-09-12 14:24:00,Hydraulic_Press_02,Anna Schmidt,Filter clogged. Replaced. Pressure restored to normal.,1.1,False
+LOG_0144,2024-09-14 09:36:00,Hydraulic_Press_02,Lisa Fischer,Oil level low. Topped up. Next service in 200h.,3.3,True
+LOG_0145,2024-09-16 04:48:00,Conveyor_Motor_03,Lisa Fischer,Temp sensor reading 92C. Cooling fan inspection needed.,0.1,True
+LOG_0146,2024-09-18 00:00:00,Conveyor_Motor_03,Karl Weber,Machine vibration exceeded threshold. Bearing replacement required.,1.1,True
+LOG_0147,2024-09-19 19:12:00,Hydraulic_Press_02,Karl Weber,Filter clogged. Replaced. Pressure restored to normal.,0.4,True
+LOG_0148,2024-09-21 14:24:00,Conveyor_Motor_03,Hans Mueller,Unusual noise from motor. Lubrication applied. Monitor closely.,2.8,False
+LOG_0149,2024-09-23 09:36:00,Conveyor_Motor_03,Anna Schmidt,Hydraulic pressure drop detected. Seal inspection scheduled.,1.5,True
+LOG_0150,2024-09-25 04:48:00,Conveyor_Motor_03,Hans Mueller,Scheduled maintenance completed. All systems nominal.,0.3,True
+LOG_0151,2024-09-27 00:00:00,Conveyor_Motor_03,Hans Mueller,Hydraulic pressure drop detected. Seal inspection scheduled.,1.9,True
+LOG_0152,2024-09-28 19:12:00,Conveyor_Motor_03,Lisa Fischer,Oil level low. Topped up. Next service in 200h.,0.2,True
+LOG_0153,2024-09-30 14:24:00,Hydraulic_Press_02,Karl Weber,Filter clogged. Replaced. Pressure restored to normal.,1.5,True
+LOG_0154,2024-10-02 09:36:00,Hydraulic_Press_02,Hans Mueller,Oil level low. Topped up. Next service in 200h.,0.6,True
+LOG_0155,2024-10-04 04:48:00,Hydraulic_Press_02,Lisa Fischer,Machine vibration exceeded threshold. Bearing replacement required.,0.2,True
+LOG_0156,2024-10-06 00:00:00,Conveyor_Motor_03,Hans Mueller,Scheduled maintenance completed. All systems nominal.,3.2,True
+LOG_0157,2024-10-07 19:12:00,CNC_Mill_01,Karl Weber,Vibration spike on spindle. Realignment performed.,0.2,False
+LOG_0158,2024-10-09 14:24:00,Conveyor_Motor_03,Anna Schmidt,Vibration spike on spindle. Realignment performed.,1.9,False
+LOG_0159,2024-10-11 09:36:00,Conveyor_Motor_03,Hans Mueller,Filter clogged. Replaced. Pressure restored to normal.,1.9,True
+LOG_0160,2024-10-13 04:48:00,Conveyor_Motor_03,Karl Weber,Hydraulic pressure drop detected. Seal inspection scheduled.,2.1,True
+LOG_0161,2024-10-15 00:00:00,Conveyor_Motor_03,Anna Schmidt,Hydraulic pressure drop detected. Seal inspection scheduled.,0.2,True
+LOG_0162,2024-10-16 19:12:00,CNC_Mill_01,Lisa Fischer,Oil level low. Topped up. Next service in 200h.,2.8,True
+LOG_0163,2024-10-18 14:24:00,CNC_Mill_01,Karl Weber,Hydraulic pressure drop detected. Seal inspection scheduled.,1.5,True
+LOG_0164,2024-10-20 09:36:00,Hydraulic_Press_02,Lisa Fischer,Machine vibration exceeded threshold. Bearing replacement required.,3.9,True
+LOG_0165,2024-10-22 04:48:00,Conveyor_Motor_03,Anna Schmidt,Oil level low. Topped up. Next service in 200h.,1.8,True
+LOG_0166,2024-10-24 00:00:00,Conveyor_Motor_03,Anna Schmidt,Temp sensor reading 92C. Cooling fan inspection needed.,2.2,True
+LOG_0167,2024-10-25 19:12:00,Hydraulic_Press_02,Karl Weber,Machine vibration exceeded threshold. Bearing replacement required.,2.2,True
+LOG_0168,2024-10-27 14:24:00,CNC_Mill_01,Lisa Fischer,Oil level low. Topped up. Next service in 200h.,4.2,False
+LOG_0169,2024-10-29 09:36:00,CNC_Mill_01,Lisa Fischer,Emergency stop triggered. Operator reported burning smell.,0.6,True
+LOG_0170,2024-10-31 04:48:00,CNC_Mill_01,Anna Schmidt,Vibration spike on spindle. Realignment performed.,4.2,True
+LOG_0171,2024-11-02 00:00:00,Conveyor_Motor_03,Hans Mueller,Scheduled maintenance completed. All systems nominal.,0.0,False
+LOG_0172,2024-11-03 19:12:00,Hydraulic_Press_02,Karl Weber,Machine vibration exceeded threshold. Bearing replacement required.,0.9,True
+LOG_0173,2024-11-05 14:24:00,Hydraulic_Press_02,Anna Schmidt,Hydraulic pressure drop detected. Seal inspection scheduled.,1.2,True
+LOG_0174,2024-11-07 09:36:00,CNC_Mill_01,Anna Schmidt,Gearbox temperature high. Coolant flow checked and adjusted.,2.3,True
+LOG_0175,2024-11-09 04:48:00,Conveyor_Motor_03,Hans Mueller,Oil level low. Topped up. Next service in 200h.,0.1,True
+LOG_0176,2024-11-11 00:00:00,Hydraulic_Press_02,Lisa Fischer,Hydraulic pressure drop detected. Seal inspection scheduled.,4.3,True
+LOG_0177,2024-11-12 19:12:00,Hydraulic_Press_02,Lisa Fischer,Machine vibration exceeded threshold. Bearing replacement required.,6.0,True
+LOG_0178,2024-11-14 14:24:00,CNC_Mill_01,Karl Weber,Machine vibration exceeded threshold. Bearing replacement required.,0.1,False
+LOG_0179,2024-11-16 09:36:00,Conveyor_Motor_03,Lisa Fischer,Vibration spike on spindle. Realignment performed.,3.4,True
+LOG_0180,2024-11-18 04:48:00,CNC_Mill_01,Anna Schmidt,Gearbox temperature high. Coolant flow checked and adjusted.,0.8,True
+LOG_0181,2024-11-20 00:00:00,CNC_Mill_01,Anna Schmidt,Machine vibration exceeded threshold. Bearing replacement required.,1.8,True
+LOG_0182,2024-11-21 19:12:00,CNC_Mill_01,Hans Mueller,Oil level low. Topped up. Next service in 200h.,0.2,True
+LOG_0183,2024-11-23 14:24:00,CNC_Mill_01,Lisa Fischer,Unusual noise from motor. Lubrication applied. Monitor closely.,7.0,True
+LOG_0184,2024-11-25 09:36:00,Hydraulic_Press_02,Karl Weber,Hydraulic pressure drop detected. Seal inspection scheduled.,0.5,True
+LOG_0185,2024-11-27 04:48:00,Conveyor_Motor_03,Karl Weber,Scheduled maintenance completed. All systems nominal.,0.9,True
+LOG_0186,2024-11-29 00:00:00,CNC_Mill_01,Lisa Fischer,Machine vibration exceeded threshold. Bearing replacement required.,2.2,True
+LOG_0187,2024-11-30 19:12:00,Conveyor_Motor_03,Anna Schmidt,Vibration spike on spindle. Realignment performed.,15.0,True
+LOG_0188,2024-12-02 14:24:00,CNC_Mill_01,Karl Weber,Unusual noise from motor. Lubrication applied. Monitor closely.,0.9,True
+LOG_0189,2024-12-04 09:36:00,CNC_Mill_01,Hans Mueller,Machine vibration exceeded threshold. Bearing replacement required.,6.5,True
+LOG_0190,2024-12-06 04:48:00,CNC_Mill_01,Anna Schmidt,Oil level low. Topped up. Next service in 200h.,3.0,True
+LOG_0191,2024-12-08 00:00:00,Conveyor_Motor_03,Karl Weber,Scheduled maintenance completed. All systems nominal.,0.1,True
+LOG_0192,2024-12-09 19:12:00,CNC_Mill_01,Karl Weber,Gearbox temperature high. Coolant flow checked and adjusted.,3.5,True
+LOG_0193,2024-12-11 14:24:00,CNC_Mill_01,Lisa Fischer,Temp sensor reading 92C. Cooling fan inspection needed.,2.1,False
+LOG_0194,2024-12-13 09:36:00,Conveyor_Motor_03,Anna Schmidt,Scheduled maintenance completed. All systems nominal.,1.7,True
+LOG_0195,2024-12-15 04:48:00,Hydraulic_Press_02,Hans Mueller,Hydraulic pressure drop detected. Seal inspection scheduled.,10.0,True
+LOG_0196,2024-12-17 00:00:00,CNC_Mill_01,Hans Mueller,Machine vibration exceeded threshold. Bearing replacement required.,0.9,True
+LOG_0197,2024-12-18 19:12:00,Hydraulic_Press_02,Anna Schmidt,Filter clogged. Replaced. Pressure restored to normal.,6.8,True
+LOG_0198,2024-12-20 14:24:00,Conveyor_Motor_03,Karl Weber,Temp sensor reading 92C. Cooling fan inspection needed.,1.1,False
+LOG_0199,2024-12-22 09:36:00,CNC_Mill_01,Hans Mueller,Temp sensor reading 92C. Cooling fan inspection needed.,4.7,True
+LOG_0200,2024-12-24 04:48:00,CNC_Mill_01,Karl Weber,Machine vibration exceeded threshold. Bearing replacement required.,0.3,True

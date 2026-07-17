@@ -1,0 +1,39 @@
+﻿version: '3.8'
+
+services:
+  maintenancegpt-api:
+    build: .
+    container_name: maintenancegpt-api
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+    environment:
+      - OLLAMA_BASE_URL=http://ollama:11434
+    depends_on:
+      - ollama
+    restart: unless-stopped
+
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    restart: unless-stopped
+
+  maintenancegpt-dashboard:
+    build: .
+    container_name: maintenancegpt-dashboard
+    command: ["python", "-m", "streamlit", "run", "dashboard/app.py", "--server.port=8501", "--server.address=0.0.0.0"]
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+    depends_on:
+      - maintenancegpt-api
+    restart: unless-stopped
+
+volumes:
+  ollama_data:

@@ -1,0 +1,52 @@
+[
+  {
+    "machine_id": "Conveyor_Motor_03",
+    "fault": "bearing_wear",
+    "sensor": "vibration_mm_s",
+    "manual_procedure": "Based on the manual excerpts, here are the exact maintenance procedures and immediate actions required for Machine Conveyor_Motor_03 with a diagnosed fault of bearing_wear:\n\n\u2022 **Immediate Action**: Stop the machine immediately to prevent further damage.\n\u2022 **Scheduled Replacement**: Schedule replacement of the bearing within 24 hours, as indicated by the F005 fault code.\n\u2022 **Inspection Interval**: Since the inspection interval is every 500 operating hours, and this is the first instance of vibration above the critical threshold (4.0 mm/s), it's recommended to inspect the bearing again after the scheduled replacement to ensure no further issues arise.",
+    "sources": [
+      "BEARING MAINTENANCE:\n- Inspection interval: Every 500 operating hours\n- Lubrication: Shell Tellus S2 M46 grease, 10-15g per bearing\n- Replacement: Eve",
+      "VIBRATION SPECIFICATIONS:\n- Normal operating range: 0.5-1.0 mm/s\n- Warning threshold: 2.0 mm/s\n- Critical threshold: 4.0 mm/s\n- Action: Vibration abov"
+    ]
+  },
+  {
+    "machine_id": "Conveyor_Motor_03",
+    "fault": "bearing_wear",
+    "sensor": "temperature_c",
+    "manual_procedure": "Based on the manual excerpts provided, here are the exact maintenance procedures and immediate actions required for the diagnosed fault:\n\n\u2022 **Immediate Action:** Stop the machine immediately to prevent further damage (F005: Bearing wear detected).\n\u2022 **Maintenance Procedure:** Schedule replacement of the bearing within 24 hours.\n\u2022 **Additional Action:** Check the temperature sensor's coolant flow to ensure it is not blocked or restricted, as overheating can cause premature bearing failure.",
+    "sources": [
+      "=== Conveyor_Motor_03 MAINTENANCE MANUAL ===\n\nMACHINE: Conveyor Motor 03 (Model: SEW Eurodrive R77)\nMANUFACTURER: SEW Eurodrive\nINSTALLATION: 2022\n\nTE",
+      "BEARING MAINTENANCE:\n- Inspection interval: Every 500 operating hours\n- Lubrication: Shell Tellus S2 M46 grease, 10-15g per bearing\n- Replacement: Eve"
+    ]
+  },
+  {
+    "machine_id": "Conveyor_Motor_03",
+    "fault": "bearing_wear",
+    "sensor": "vibration_mm_s",
+    "manual_procedure": "Based on the manual excerpts, here are the exact maintenance procedures and immediate actions required for Machine Conveyor_Motor_03 with a diagnosed fault of bearing_wear:\n\n\u2022 **Immediate Action**: Stop the machine immediately (F005: Bearing wear detected).\n\u2022 **Scheduled Replacement**: Schedule replacement of the bearing within 24 hours.\n\u2022 **Inspection Interval**: The next inspection interval is every 500 operating hours, but since this is an immediate action due to vibration exceeding 3.0 mm/s, it's recommended to inspect and replace the bearing as soon as possible.",
+    "sources": [
+      "BEARING MAINTENANCE:\n- Inspection interval: Every 500 operating hours\n- Lubrication: Shell Tellus S2 M46 grease, 10-15g per bearing\n- Replacement: Eve",
+      "VIBRATION SPECIFICATIONS:\n- Normal operating range: 0.5-1.0 mm/s\n- Warning threshold: 2.0 mm/s\n- Critical threshold: 4.0 mm/s\n- Action: Vibration abov"
+    ]
+  },
+  {
+    "machine_id": "Conveyor_Motor_03",
+    "fault": "bearing_wear",
+    "sensor": "vibration_mm_s",
+    "manual_procedure": "Based on the manual excerpts, here are the exact maintenance procedures and immediate actions required for Machine Conveyor_Motor_03 with a diagnosed fault of bearing_wear:\n\n\u2022 **Immediate Action**: Stop the machine immediately (F005: Bearing wear detected).\n\u2022 **Scheduled Replacement**: Schedule replacement of the bearing within 24 hours.\n\u2022 **Inspection Interval**: The next inspection interval is every 500 operating hours, but since this is an immediate action due to vibration exceeding 3.0 mm/s, it's recommended to inspect and replace the bearing as soon as possible.",
+    "sources": [
+      "BEARING MAINTENANCE:\n- Inspection interval: Every 500 operating hours\n- Lubrication: Shell Tellus S2 M46 grease, 10-15g per bearing\n- Replacement: Eve",
+      "VIBRATION SPECIFICATIONS:\n- Normal operating range: 0.5-1.0 mm/s\n- Warning threshold: 2.0 mm/s\n- Critical threshold: 4.0 mm/s\n- Action: Vibration abov"
+    ]
+  },
+  {
+    "machine_id": "Conveyor_Motor_03",
+    "fault": "bearing_wear",
+    "sensor": "temperature_c",
+    "manual_procedure": "Based on the manual excerpts provided, here are the exact maintenance procedures and immediate actions required for the diagnosed fault:\n\n\u2022 **Immediate Action:** Stop the machine immediately to prevent further damage (F005: Bearing wear detected).\n\u2022 **Maintenance Procedure:** Schedule replacement of the bearing within 24 hours.\n\u2022 **Additional Check:** Inspect the temperature sensor (temperature_c) for any signs of damage or malfunction, and ensure proper coolant flow to prevent overheating.",
+    "sources": [
+      "=== Conveyor_Motor_03 MAINTENANCE MANUAL ===\n\nMACHINE: Conveyor Motor 03 (Model: SEW Eurodrive R77)\nMANUFACTURER: SEW Eurodrive\nINSTALLATION: 2022\n\nTE",
+      "BEARING MAINTENANCE:\n- Inspection interval: Every 500 operating hours\n- Lubrication: Shell Tellus S2 M46 grease, 10-15g per bearing\n- Replacement: Eve"
+    ]
+  }
+]

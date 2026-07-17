@@ -1,0 +1,104 @@
+{
+  "forecasts": [
+    {
+      "machine_id": "CNC_Mill_01",
+      "sensor": "temperature_c",
+      "current_mean": 65.055,
+      "danger_threshold": 68.838,
+      "forecast_mean_48h": 64.951,
+      "forecast_max_48h": 68.356,
+      "failure_probability": 0.0,
+      "hours_to_threshold_breach": null,
+      "at_risk": false
+    },
+    {
+      "machine_id": "CNC_Mill_01",
+      "sensor": "vibration_mm_s",
+      "current_mean": 0.807,
+      "danger_threshold": 1.144,
+      "forecast_mean_48h": 0.822,
+      "forecast_max_48h": 1.144,
+      "failure_probability": 0.0,
+      "hours_to_threshold_breach": null,
+      "at_risk": false
+    },
+    {
+      "machine_id": "CNC_Mill_01",
+      "sensor": "pressure_bar",
+      "current_mean": 4.204,
+      "danger_threshold": 4.508,
+      "forecast_mean_48h": 4.218,
+      "forecast_max_48h": 4.49,
+      "failure_probability": 0.0,
+      "hours_to_threshold_breach": null,
+      "at_risk": false
+    },
+    {
+      "machine_id": "Hydraulic_Press_02",
+      "sensor": "temperature_c",
+      "current_mean": 78.09,
+      "danger_threshold": 81.93,
+      "forecast_mean_48h": 78.084,
+      "forecast_max_48h": 81.598,
+      "failure_probability": 0.0,
+      "hours_to_threshold_breach": null,
+      "at_risk": false
+    },
+    {
+      "machine_id": "Hydraulic_Press_02",
+      "sensor": "vibration_mm_s",
+      "current_mean": 1.207,
+      "danger_threshold": 1.543,
+      "forecast_mean_48h": 1.216,
+      "forecast_max_48h": 1.527,
+      "failure_probability": 0.0,
+      "hours_to_threshold_breach": null,
+      "at_risk": false
+    },
+    {
+      "machine_id": "Hydraulic_Press_02",
+      "sensor": "pressure_bar",
+      "current_mean": 8.499,
+      "danger_threshold": 8.803,
+      "forecast_mean_48h": 8.499,
+      "forecast_max_48h": 8.772,
+      "failure_probability": 0.0,
+      "hours_to_threshold_breach": null,
+      "at_risk": false
+    },
+    {
+      "machine_id": "Conveyor_Motor_03",
+      "sensor": "temperature_c",
+      "current_mean": 45.043,
+      "danger_threshold": 48.956,
+      "forecast_mean_48h": 45.172,
+      "forecast_max_48h": 48.729,
+      "failure_probability": 0.0,
+      "hours_to_threshold_breach": null,
+      "at_risk": false
+    },
+    {
+      "machine_id": "Conveyor_Motor_03",
+      "sensor": "vibration_mm_s",
+      "current_mean": 0.508,
+      "danger_threshold": 0.854,
+      "forecast_mean_48h": 0.526,
+      "forecast_max_48h": 0.846,
+      "failure_probability": 0.0,
+      "hours_to_threshold_breach": null,
+      "at_risk": false
+    },
+    {
+      "machine_id": "Conveyor_Motor_03",
+      "sensor": "pressure_bar",
+      "current_mean": 2.101,
+      "danger_threshold": 2.403,
+      "forecast_mean_48h": 2.091,
+      "forecast_max_48h": 2.364,
+      "failure_probability": 0.0,
+      "hours_to_threshold_breach": null,
+      "at_risk": false
+    }
+  ],
+  "risk_summary": "No machines forecasted to exceed danger thresholds in the next 48 hours."
+}

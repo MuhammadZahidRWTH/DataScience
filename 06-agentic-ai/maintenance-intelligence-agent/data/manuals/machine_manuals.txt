@@ -1,0 +1,104 @@
+=== CNC_Mill_01 MAINTENANCE MANUAL ===
+
+MACHINE: CNC Mill 01 (Model: DMG MORI CMX 600)
+MANUFACTURER: DMG MORI
+INSTALLATION: 2021
+
+TEMPERATURE SPECIFICATIONS:
+- Normal operating range: 60-70°C
+- Warning threshold: 75°C
+- Critical threshold: 85°C
+- Action: If temperature exceeds 75°C, inspect coolant flow immediately.
+- Action: If temperature exceeds 85°C, emergency stop required.
+
+VIBRATION SPECIFICATIONS:
+- Normal operating range: 0.5-1.0 mm/s
+- Warning threshold: 2.0 mm/s
+- Critical threshold: 4.0 mm/s
+- Action: Vibration above 2.0 mm/s indicates bearing wear. Schedule inspection within 24 hours.
+- Action: Vibration above 4.0 mm/s requires immediate shutdown.
+
+BEARING MAINTENANCE:
+- Inspection interval: Every 500 operating hours
+- Lubrication: Shell Tellus S2 M46 grease, 10-15g per bearing
+- Replacement: Every 3000 operating hours or when vibration exceeds 3.0 mm/s
+- Common failure mode: Insufficient lubrication causes heat buildup and spalling
+
+COOLANT SYSTEM:
+- Coolant type: Blaser Swisslube Blasocut 4000 Strong 8%
+- Flow rate: 12-15 L/min at operating pressure
+- Filter replacement: Every 200 hours
+- Common failure: Clogged filter causes temperature spike above 80°C
+
+=== Hydraulic_Press_02 MAINTENANCE MANUAL ===
+
+MACHINE: Hydraulic Press 02 (Model: Schuler MSP 250)
+MANUFACTURER: Schuler AG
+INSTALLATION: 2020
+
+PRESSURE SPECIFICATIONS:
+- Normal operating range: 8.0-9.0 bar
+- Warning threshold: 9.5 bar
+- Critical threshold: 10.5 bar
+- Action: Pressure above 9.5 bar indicates seal wear. Inspect seals within 48 hours.
+- Action: Pressure above 10.5 bar requires immediate shutdown.
+
+TEMPERATURE SPECIFICATIONS:
+- Normal operating range: 70-85°C
+- Warning threshold: 90°C
+- Critical threshold: 100°C
+- Action: Overheating indicates hydraulic fluid degradation or pump wear.
+
+HYDRAULIC SYSTEM:
+- Fluid type: Fuchs Renolin MR 46 VG
+- Fluid change interval: Every 2000 operating hours
+- Filter replacement: Every 500 hours
+- Common failure: Fluid contamination causes pressure fluctuations and seal wear
+
+SEAL MAINTENANCE:
+- Inspection interval: Every 300 operating hours
+- Replacement: At first sign of leakage or pressure drop below 7.5 bar
+- Seal kit: Schuler OEM Part #MSP250-SK-001
+
+=== Conveyor_Motor_03 MAINTENANCE MANUAL ===
+
+MACHINE: Conveyor Motor 03 (Model: SEW Eurodrive R77)
+MANUFACTURER: SEW Eurodrive
+INSTALLATION: 2022
+
+TEMPERATURE SPECIFICATIONS:
+- Normal operating range: 40-50°C
+- Warning threshold: 58°C
+- Critical threshold: 65°C
+- Action: Overheating indicates blocked ventilation or overload condition.
+- Action: Check ambient temperature and load distribution.
+
+VIBRATION SPECIFICATIONS:
+- Normal operating range: 0.3-0.6 mm/s
+- Warning threshold: 1.2 mm/s
+- Critical threshold: 2.5 mm/s
+- Action: Elevated vibration indicates belt misalignment or coupling wear.
+
+GEARBOX MAINTENANCE:
+- Oil type: SEW CLP 220 gear oil
+- Oil change interval: Every 10,000 hours or annually
+- Oil level check: Every 500 hours
+- Common failure: Oil degradation causes gear wear and temperature rise
+
+BELT AND COUPLING:
+- Belt inspection: Every 1000 hours
+- Tension check: Every 250 hours, target 150-180N belt tension
+- Coupling alignment: Every 6 months or after any motor replacement
+
+GENERAL MAINTENANCE SCHEDULE:
+- Daily: Visual inspection, temperature check, unusual noise check
+- Weekly: Lubrication levels, belt tension, filter status
+- Monthly: Full sensor calibration, bearing inspection, seal check
+- Annually: Full overhaul, fluid replacement, coupling alignment
+
+FAULT CODES AND REMEDIATION:
+- F001: Temperature critical — stop machine, inspect coolant/ventilation
+- F002: Vibration critical — stop machine, inspect bearings/alignment
+- F003: Pressure anomaly — inspect hydraulic seals and fluid level
+- F004: Overload detected — reduce load, inspect drive components
+- F005: Bearing wear detected — schedule replacement within 24 hours
