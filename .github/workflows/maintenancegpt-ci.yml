@@ -1,0 +1,55 @@
+﻿name: CI - MaintenanceGPT
+
+on:
+  push:
+    paths:
+      - '06-agentic-ai/maintenance-intelligence-agent/**'
+  pull_request:
+    paths:
+      - '06-agentic-ai/maintenance-intelligence-agent/**'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 06-agentic-ai/maintenance-intelligence-agent
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install pytest httpx fastapi pandas numpy scikit-learn torch
+          pip install langchain-ollama langchain-community langchain
+
+      - name: Run tests
+        run: pytest tests/ -v
+
+  lint:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 06-agentic-ai/maintenance-intelligence-agent
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install ruff
+        run: pip install ruff
+
+      - name: Lint
+        run: ruff check . --ignore E501,E402,F401,F541,E722

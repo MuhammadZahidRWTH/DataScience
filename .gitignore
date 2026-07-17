@@ -1,0 +1,9 @@
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Python cache (if any)
+__pycache__/
+*.pyc
