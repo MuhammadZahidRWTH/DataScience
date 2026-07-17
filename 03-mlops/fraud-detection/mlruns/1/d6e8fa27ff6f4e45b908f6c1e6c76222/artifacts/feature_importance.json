@@ -1,0 +1,22 @@
+{
+  "transaction_amount": 0.10524826496839523,
+  "hour_of_day": 0.06403062492609024,
+  "std_amount_7d": 0.06218046694993973,
+  "international": 0.06048038229346275,
+  "account_age_days": 0.06043336167931557,
+  "utilization_rate": 0.05868338793516159,
+  "velocity_7d": 0.0521860271692276,
+  "ip_change": 0.051282692700624466,
+  "new_merchant": 0.05052179843187332,
+  "card_present": 0.05043468251824379,
+  "num_transactions_24h": 0.04722500592470169,
+  "credit_limit": 0.046335093677043915,
+  "device_change": 0.04520052671432495,
+  "distance_from_home": 0.04057855159044266,
+  "failed_attempts_24h": 0.0381702184677124,
+  "day_of_week": 0.03797374293208122,
+  "merchant_category": 0.035998549312353134,
+  "avg_amount_7d": 0.03130905702710152,
+  "velocity_24h": 0.031181160360574722,
+  "online_transaction": 0.03054644912481308
+}
