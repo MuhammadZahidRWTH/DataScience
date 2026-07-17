@@ -1,0 +1,18 @@
+{
+  "file_name": "doc-16.pdf",
+  "general": {
+    "document_id": "PRET-FR-67521-2025",
+    "language": "fr",
+    "document_type": "credit",
+    "document_date": "05.03.2025",
+    "customer_name": "Jean-pierre Dubois",
+    "institution_address": "23 Avenue Victor Hugo, 69002 Lyon, France"
+  },
+  "credit": {
+    "credit_limit": "15000.00 €",
+    "payment_due_date": "05.04.2025",
+    "statement_period": "48 mois",
+    "minimum_payment": "336.83 €",
+    "new_balance": "16167.84 €"
+  }
+}

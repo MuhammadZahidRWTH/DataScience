@@ -1,0 +1,17 @@
+{
+  "file_name": "doc-02.pdf",
+  "general": {
+    "document_id": "CD-IT-78901-2025",
+    "language": "it",
+    "document_type": "investment",
+    "document_date": "01.03.2025",
+    "customer_name": "Marco Rossi",
+    "customer_id": "RSSMRC75P12H501T",
+    "institution_name": "Banca Italiana di Credito",
+    "institution_address": "Via Veneto 45, 00187 Roma"
+  },
+  "investment": {
+    "portfolio_id": "CD-IT-78901-2025",
+    "portfolio_value": "25000.00 €"
+  }
+}

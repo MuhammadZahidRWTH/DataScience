@@ -1,0 +1,16 @@
+{
+  "file_name": "doc-15.pdf",
+  "general": {
+    "document_id": "INV-EN-89012-2025",
+    "language": "en",
+    "document_type": "investment",
+    "customer_name": "Alexander Thompson",
+    "customer_id": "INV-78901-2345",
+    "institution_address": "45 Park Avenue, New York, NY 10022, USA"
+  },
+  "investment": {
+    "portfolio_id": "INV-EN-89012-2025",
+    "portfolio_value": "$1,456,789.25",
+    "asset_number": 5
+  }
+}

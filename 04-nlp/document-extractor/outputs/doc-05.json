@@ -1,0 +1,19 @@
+{
+  "file_name": "doc-05.pdf",
+  "general": {
+    "document_id": "a7e1fe79-d508-4008-8317-0a8860d05b43",
+    "language": "de",
+    "document_type": "garnishment",
+    "document_date": "14.04.2024",
+    "customer_name": "Esther Hendriks",
+    "customer_id": "3339795/XX7048953",
+    "institution_name": "N26 Bank AG",
+    "institution_address": "Voltairestraße 8, 10179 Berlin, Germany"
+  },
+  "garnishment": {
+    "debtor_name": "Esther Hendriks",
+    "creditor_name": "Hein Barkholz AG & Co. KGaA",
+    "effective_date": "14.04.2024",
+    "legal_authority": "Amstgerichts vom 14. April 2024"
+  }
+}

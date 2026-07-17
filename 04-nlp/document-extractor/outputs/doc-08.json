@@ -1,0 +1,18 @@
+{
+  "file_name": "doc-08.pdf",
+  "general": {
+    "document_id": "TC-ES-56789-2025",
+    "language": "es",
+    "document_type": "credit",
+    "document_date": "28.02.2025",
+    "customer_name": "Elena Rodríguez",
+    "institution_name": "Banco Hispano Internacional",
+    "institution_address": "Ca11e Gran Vía 42, 28013 Madrid"
+  },
+  "credit": {
+    "card_number": "************5432",
+    "credit_limit": "5.00 €",
+    "interest_rate": "18.95 %",
+    "minimum_payment": "87.65 €"
+  }
+}

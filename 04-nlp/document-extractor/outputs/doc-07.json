@@ -1,0 +1,16 @@
+{
+  "file_name": "doc-07.pdf",
+  "general": {
+    "document_id": "KTO-DE-23456-2025",
+    "language": "de",
+    "document_type": "personal_account",
+    "document_date": "12.03.2025",
+    "customer_name": "Thomas Müller",
+    "institution_address": "Friedrichstraße 123, 10117 Ber1in, Deutsch1and"
+  },
+  "personal_account": {
+    "account_number": "DE87 1009 0000 1234 5678 90",
+    "account_type": "Girokonto Plus",
+    "transaction_number": 0
+  }
+}

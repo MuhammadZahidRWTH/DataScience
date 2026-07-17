@@ -1,0 +1,16 @@
+{
+  "file_name": "doc-06.pdf",
+  "general": {
+    "document_id": "HYP-DE-12473-2025",
+    "language": "de",
+    "document_type": "credit",
+    "document_date": "22.02.2025",
+    "customer_name": "Markus Weber",
+    "institution_name": "Deutsche Kreditbank",
+    "institution_address": "Lindenstraße 45, 10969 Ber1in, Deutsch1and"
+  },
+  "credit": {
+    "interest_rate": "2.45 %",
+    "new_balance": "320000.00 €"
+  }
+}
